@@ -17,8 +17,8 @@ title: Leeds Community Homes
 email: info@leedscommunityhomes.org.uk
 description: |
   Let’s build people powered homes
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.leedscommunityhomes.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/leedscommunityhomes" # the subpath of your site, e.g. /blog
+url: "http://blog.letsdance.agency/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 header_pages:
 # Build settings
