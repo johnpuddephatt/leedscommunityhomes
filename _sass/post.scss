@@ -1,0 +1,16 @@
+.post-header {
+  margin-top: 6 * $base-spacing;
+}
+
+.post-title {
+  font-size: modular-scale(6);
+}
+
+.post-content {
+  margin-top: 2 * $base-spacing;
+  margin-bottom: 2 * $base-spacing;
+  h2,h3,h4,h5,h6 {
+    margin-top: 2 * $base-spacing;
+    margin-bottom: 1 * $base-spacing;
+  }
+}

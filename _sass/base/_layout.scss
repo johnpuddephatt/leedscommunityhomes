@@ -1,0 +1,39 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+body {
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  perspective: 1px;
+}
+
+
+.container {
+  max-width: $max-screen;
+  margin: 0 auto;
+  padding-left: $small-spacing;
+  padding-right: $small-spacing;
+  @media screen and (min-width: $medium-screen) {
+    padding-left: $base-spacing;
+    padding-right: $base-spacing;
+  }
+  &--narrow {
+    max-width: $large-screen;
+  }
+}

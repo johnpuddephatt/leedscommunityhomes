@@ -1,0 +1,502 @@
+/* ============
+  Hero
+============ */
+
+.section--hero {
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: calc(100vh - #{4 * $base-spacing});
+    @media screen and (min-width: $medium-screen) {
+      flex-direction: row;
+      height: calc(100vh - #{4 * $base-spacing});
+      align-items: center;
+    }
+  }
+  &::before {
+    height: 130vh;
+    width: 100vw;
+    content: '';
+    background-color: rgba(0,0,0,0.2);
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: radial-gradient(circle at 50% 25%, #{$yellow2} 0, #{$yellow1} 40%);
+    @media screen and (min-width: $medium-screen) {
+      background: radial-gradient(circle at 75% 50%, #{$yellow2} 0, #{$yellow1} 40%);
+    }
+  }
+  &::after {
+    height: 50vh;
+    width: 100vw;
+    transform: translate3d(0,0,-0.1px) scale(1.1);
+    content: '';
+    position: absolute;
+    z-index: -1;
+    top: 85vh;
+    left: 0;
+    background:
+      radial-gradient(circle at 0% 100%, white 0, white #{6 * $base-spacing}, transparent #{6 * $base-spacing}),
+      radial-gradient(circle at 20% 90%, white 0, white #{8 * $base-spacing}, transparent #{8 * $base-spacing}),
+      radial-gradient(circle at 60% 45%, white 0, white #{4 * $base-spacing}, transparent #{4 * $base-spacing}),
+      radial-gradient(circle at 75% 45%, white 0, white #{6 * $base-spacing}, transparent #{6 * $base-spacing}),
+      radial-gradient(circle at 92.5% 70%, white 0, white #{7 * $base-spacing}, transparent #{7 * $base-spacing});
+  }
+}
+
+.hero-title {
+  color: #fff;
+  margin-top: 2 * $base-spacing;
+  font-weight: 900;
+  font-size: modular-scale(3);
+  @media screen and (min-width: $medium-screen) {
+    font-size: modular-scale(4);
+  }
+  @media screen and (min-width: $large-screen) {
+    font-size: modular-scale(5);
+  }
+}
+
+.hero-button {
+  margin-top: $base-spacing;
+}
+
+.hero-image {
+  width: 100%;
+  height: auto;
+  position: relative;
+  display: block;
+  @media screen and (min-width: $medium-screen) {
+    order: 2;
+    flex: 0 0 60%;
+  }
+  svg {
+    width: 100%;
+    height: auto;
+  }
+}
+
+
+/* ============
+  What we do
+============ */
+
+.section--what-we-do {
+  padding: 3 * $base-spacing 0;
+  @media screen and (min-width: $medium-screen) {
+    text-align: center;
+  }
+  .section-heading {
+    color: $yellow;
+  }
+}
+
+.container--what-we-do {
+  background-color: #fff;
+  padding: $base-spacing;
+  margin: -2 * $base-spacing $small-spacing 0;
+  @media screen and (min-width: $medium-screen) {
+    padding: 2 * $base-spacing;
+  }
+  @media screen and (min-width: $large-screen) {
+    margin: -2 * $base-spacing auto 0;
+  }
+  box-shadow: 0 $base-spacing 4 * $base-spacing (-$base-spacing) rgba(100,100,100,.5);
+}
+
+
+.what-we-do--areas {
+  display: flex;
+  flex-direction: column;
+  @media screen and (min-width: $medium-screen) {
+    flex-direction: row;
+  }
+}
+
+.what-we-do--area {
+  padding: $base-spacing 0;
+  flex: 0 0 33.3%;
+  display: flex;
+  flex-direction: row;
+  @media screen and (min-width: $medium-screen) {
+    padding: $base-spacing $base-spacing 0;
+    flex-direction: column;
+  }
+  overflow: hidden;
+}
+
+.what-we-do--area--thumb {
+  display: block;
+  flex: 0 0 30%;
+  img {
+    border-radius: 50%;
+  }
+  margin-bottom: $base-spacing;
+  float: left;
+  margin-right: $small-spacing;
+  @media screen and (min-width: $medium-screen) {
+    margin: 0 auto $base-spacing;
+    width: 90%;
+    float: none;
+  }
+}
+
+.what-we-do--area--title {
+  color: $base-font-color;
+  font-size: modular-scale(2);
+}
+
+.what-we-do--area--button {
+  margin-top: $small-spacing/2;
+  @media screen and (min-width: $medium-screen) {
+    margin-top: $small-spacing;
+  }
+}
+
+.what-we-do--area--description {
+  font-size: modular-scale(0);
+  font-weight: 700;
+  color: $base-font-color;
+}
+
+/* ============
+  Why CLH
+============ */
+
+
+.section--why {
+  margin: 4 * $base-spacing 0;
+  position: relative;
+  &::after {
+    height: 22 * $base-spacing;
+    width: 100vw;
+    content: '';
+    position: absolute;
+    z-index: 9;
+    top: 100%;
+    left: 0;
+    transform: translate3d(0,0,-0.1px) scale(1.1);
+    background:
+      radial-gradient(circle at 10% 50%, white 0, white #{10 * $base-spacing}, transparent #{8 * $base-spacing}),
+      radial-gradient(circle at 30% 32.5%, white 0, white #{7 * $base-spacing}, transparent #{6 * $base-spacing}),
+      radial-gradient(circle at 45% 37.5%, white 0, white #{8 * $base-spacing}, transparent #{7 * $base-spacing}),
+      radial-gradient(circle at 65% 17.5%, white 0, white #{6 * $base-spacing}, transparent #{6 * $base-spacing}),
+      radial-gradient(circle at 82.5% 7.5%, white 0, white #{6 * $base-spacing}, transparent #{5 * $base-spacing}),
+      radial-gradient(circle at 95% 10%, white 0, white #{5 * $base-spacing}, transparent #{4 * $base-spacing});
+  }
+}
+
+.dash-stripe {
+  margin-bottom: $base-spacing;
+  height: $small-spacing/2;
+  width: auto;
+}
+
+.intersecting {
+  outline: 4px solid red;
+}
+
+.why--item {
+  display: flex;
+  position: relative;
+  z-index: 99;
+  flex-direction: row;
+  align-items: center;
+  margin: 2 * $base-spacing 0;
+  &:nth-child(2n) {
+    @media screen and (min-width: $medium-screen) {
+      .why--item--icon {
+        order: 2;
+        margin-right: 0;
+        margin-left: 3 * $base-spacing;
+      }
+    }
+  }
+}
+
+.why--item--icon {
+  flex: 0 0 30%;
+  margin: 0 $small-spacing 0 0;
+  @media screen and (min-width: $medium-screen) {
+    width: auto;
+    flex: 0 0 33.3%;
+    margin: 0 3 * $base-spacing 0 0;
+  }
+  display: block;
+  svg {
+    margin-left: auto;
+    width: 100%;
+    height: auto;
+  }
+}
+
+.why--item--heading {
+  font-size: modular-scale(2);
+  margin-bottom: $base-spacing;
+}
+
+.why--item--description {
+  font-size: modular-scale(0);
+  font-weight: 700;
+  margin-bottom: 0;
+  @media screen and (min-width: $medium-screen) {
+    font-size: modular-scale(1);
+  }
+}
+
+/* ============
+  Supporters
+============ */
+
+.section--supporters {
+  padding-top: 4 * $base-spacing;
+  padding-bottom: 2 * $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    padding-top: 16 * $base-spacing;
+    padding-bottom: 4 * $base-spacing;
+  }
+  background: linear-gradient(to bottom, $yellow2, $yellow1, white);
+  position: relative;
+
+}
+
+.container--supporters {
+  display: flex;
+  flex-direction: column;
+  @media screen and (min-width: $medium-screen) {
+    flex-direction: row;
+  }
+}
+
+.supporters--item {
+  background-color: #fff;
+  position: relative;
+  box-shadow: 0 $base-spacing 4 * $base-spacing (-$base-spacing) rgba(100,100,100,.5);
+  z-index: 99;
+  flex: 0 1 33.3%;
+  margin-top: $base-spacing;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  @media screen and (min-width: $medium-screen) {
+    margin: 5 * $base-spacing $small-spacing $base-spacing;
+    flex-direction: column;
+  }
+  @media screen and (min-width: $large-screen) {
+    margin: 5 * $base-spacing $base-spacing $base-spacing;
+
+  }
+}
+
+.supporters--item--icon {
+  margin: $base-spacing;
+  flex: 0 0 30%;
+  img {
+    display: block;
+    border-radius: 50%;
+  }
+
+  @media screen and (min-width: $medium-screen) {
+    width: calc(100% - #{4 * $base-spacing});
+    float: none;
+    margin: -4 * $base-spacing auto $base-spacing;
+  }
+}
+
+.supporters--item--text {
+  padding: $base-spacing $base-spacing $base-spacing 0;
+  flex: 1 1;
+  @media screen and (min-width: $medium-screen) {
+    padding: 0 $base-spacing $base-spacing;
+  }
+  @media screen and (min-width: $large-screen) {
+    padding: 0 2 * $base-spacing $base-spacing;
+  }
+}
+
+.supporters--item--title {
+  font-size: modular-scale(2);
+  font-weight: 900;
+  word-wrap: break-word;
+  margin-bottom: $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    font-size: modular-scale(4);
+  }
+}
+
+.supporters--item--quote {
+  font-size: modular-scale(1);
+  @media screen and (min-width: $medium-screen) {
+    font-size: modular-scale(1);
+  }
+  font-weight: 900;
+  margin-bottom: 0;
+  &::before, &::after {
+    content: "“";
+    margin-right: $small-spacing/6;
+    font-size: modular-scale(3);
+    @media screen and (min-width: $medium-screen) {
+      font-size: modular-scale(4);
+    }
+    line-height: 0;
+    display: inline-block;
+    height: 0;
+    vertical-align: middle;
+  }
+  &::after {
+    margin-right: 0;
+    margin-left: $small-spacing/6;
+    content: "”";
+  }
+}
+
+.supporters--video-button {
+  text-align: right;
+  line-height: 2 * $base-spacing;
+  display: block;
+  text-transform: none;
+  font-size: modular-scale(0);
+  width: 100%;
+  text-align: right;
+  background-color: transparent;
+  padding: $small-spacing/2 $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    text-align: left;
+    font-size: modular-scale(-1);
+    padding: $small-spacing/2 ($base-spacing);
+  }
+  @media screen and (min-width: $large-screen) {
+    font-size: modular-scale(0);
+    padding: $small-spacing/2 (2 * $base-spacing);
+  }
+  margin: 0;
+  color: $base-font-color;
+  border-top: 1px solid lightgray;
+  border-radius: 0;
+  &:hover {
+    background-color: $action-color;
+    color: white;
+  }
+  &::before {
+    content: '';
+    width: 1.6 * $base-spacing;
+    height: 1.6 * $base-spacing;
+    margin: -.4 * $base-spacing .4 * $base-spacing;
+    margin-left: 0;
+    display: inline-block;
+    background-color: red;
+    background: url(../assets/images/icon-video.svg) center / contain no-repeat;
+    @media screen and (min-width: $medium-screen) {
+      margin: .2 * $base-spacing .6 * $base-spacing;
+      margin-left: 0;
+      float: left;
+    }
+  }
+}
+
+/* ============
+  Progress
+============ */
+
+.section--progress {
+  margin: 2 * $base-spacing 0 4 * $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    margin: 2 * $base-spacing 0 6 * $base-spacing;
+  }
+}
+
+.container--progress {
+  display: flex;
+  padding: 0;
+  flex-direction: column;
+  @media screen and (min-width: $medium-screen) {
+    flex-direction: row;
+  }
+}
+
+.progress--item {
+  flex: 0 0 33.3%;
+  overflow: hidden;
+  text-align: center;
+  padding: 0 $small-spacing/2;
+  margin: $base-spacing 0 $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    margin: 2 * $base-spacing 0 $base-spacing;
+  }
+}
+
+.progress--item--figure {
+  font-size: modular-scale(6);
+  @media screen and (min-width: $medium-screen) {
+    font-size: modular-scale(7);
+  }
+  @media screen and (min-width: $large-screen) {
+    font-size: modular-scale(8);
+  }
+  line-height: $heading-line-height;
+  font-weight: 900;
+}
+
+.progress--item--text {
+  font-size: modular-scale(2);
+  @media screen and (min-width: $medium-screen) {
+    font-size: modular-scale(2);
+  }
+  @media screen and (min-width: $large-screen) {
+    font-size: modular-scale(4);
+  }
+  font-weight: 900;
+}
+
+.lch-row {
+  width: 100%;
+  height: auto;
+  margin: $base-spacing auto 0;
+}
+
+
+/* ============
+  Blog
+============ */
+
+.section--blog {
+  margin: 2 * $base-spacing 0;
+}
+
+.container--blog {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2 * $base-spacing;
+  margin-bottom: 4 * $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    flex-direction: row;
+  }
+}
+
+.blog--item {
+  background-color: #fff;
+  flex: 0 1 33.3%;
+  margin-bottom: $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    margin-bottom: 0;
+    margin-left: $base-spacing;
+  }
+  @media screen and (min-width: $large-screen) {
+    margin-left: 2 * $base-spacing;
+  }
+  &:first-child {
+    margin-left: 0;
+  }
+  padding: $base-spacing;
+  box-shadow: 0 $base-spacing 4 * $base-spacing (-$base-spacing) rgba(100,100,100,.5);
+}
+
+.blog--item--icon {
+  margin-bottom: $base-spacing;
+}

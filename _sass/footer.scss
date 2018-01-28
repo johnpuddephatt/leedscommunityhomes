@@ -1,0 +1,43 @@
+.site-footer {
+  background-color: $yellow;
+  background-image: linear-gradient(to top, $yellow1, $yellow2);
+  padding: 2 * $base-spacing 0;
+  .container {
+    display: flex;
+    flex-direction: column;
+    @media screen and (min-width: $medium-screen) {
+      flex-direction: row;
+      align-items: center;
+    }
+  }
+}
+
+.footer-left {
+  font-weight: 700;
+  flex: 0 0 50%;
+  padding-right: 2 * $base-spacing;
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.footer-navigation {
+  flex: 0 0 25%;
+  margin: $base-spacing 0;
+  @media screen and (min-width: $medium-screen) {
+    margin: 0;
+  }
+  align-self: flex-start;
+  .page-link {
+    font-size: modular-scale(2);
+    color: $base-font-color;
+    font-weight: 900;
+    display: block;
+  }
+}
+
+.footer-logo {
+  flex: 0 0 25%;
+  text-align: right;
+
+}

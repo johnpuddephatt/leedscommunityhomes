@@ -1,0 +1,110 @@
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.site-header {
+  overflow: hidden;
+  background-color: $yellow;
+  &--home {
+    background-color: transparent;
+  }
+}
+
+.site-title {
+  color: #fff;
+  font-family: "Corporative Soft";
+  font-size: modular-scale(1);
+  font-weight: 900;
+  line-height: 3 * $base-spacing;
+  @media screen and (min-width: $large-screen) {
+    font-size: modular-scale(1);
+  }
+}
+
+
+.site-nav {
+  float: right;
+  line-height: 3 * $base-spacing;
+
+  .nav-trigger {
+      display: none;
+  }
+  label[for="nav-trigger"] {
+    display: none;
+  }
+
+  .menu-icon {
+    display: none;
+  }
+
+  .page-link {
+    color: #fff;
+    text-transform: lowercase;
+    font-size: modular-scale(1);
+    font-weight: 900;
+    line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: $base-spacing;
+    }
+    &.button {
+      background-color: #fff;
+      color: $action-color;
+    }
+
+  }
+
+  @media screen and (max-width: $medium-screen) {
+
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      z-index: 2;
+      cursor: pointer;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+      text-align: center;
+    }
+
+    input ~ .trigger {
+      clear: both;
+      display: none;
+    }
+
+    input:checked ~ .trigger {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: fixed;
+      z-index: 9999;
+      background-color: #fff;
+      top: 0;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      animation: fadeIn 1s forwards;
+    }
+
+    .page-link {
+      display: block;
+      color: $base-font-color;
+
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: $base-spacing;
+    }
+  }
+}
+

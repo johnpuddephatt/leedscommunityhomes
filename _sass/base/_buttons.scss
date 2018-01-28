@@ -1,0 +1,42 @@
+#{$all-buttons} {
+  appearance: none;
+  background-color: $action-color;
+  border: 0;
+  border-radius: $base-border-radius;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 900;
+  text-transform: lowercase;
+  -webkit-font-smoothing: antialiased;
+  line-height: $base-line-height;
+  padding: $small-spacing/2 1.5 * $small-spacing;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color $base-duration $base-timing;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+
+  &:hover,
+  &:focus {
+    background-color: shade($action-color, 20%);
+    color: #fff;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+
+    &:hover {
+      background-color: $action-color;
+    }
+  }
+  &.inverted {
+    background-color: #fff;
+    color: $yellow;
+  }
+  &.large {
+    font-size: modular-scale(1);
+  }
+}

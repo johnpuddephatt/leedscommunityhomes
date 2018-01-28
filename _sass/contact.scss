@@ -1,0 +1,24 @@
+.contact-form {
+  position: relative;
+  max-width: $medium-screen;
+  margin: 2 * $base-spacing auto 4 * $base-spacing;
+  padding: 1px 2 * $base-spacing 2 * $base-spacing;
+  box-shadow: 0 $base-spacing 4 * $base-spacing (-$base-spacing) rgba(100,100,100,.5);
+  .form-title {
+    font-size: modular-scale(2);
+  }
+  .status {
+    font-weight: 900;
+    font-size: modular-scale(2);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2 * $base-spacing;
+    background-color: rgba(255,255,255,.75);
+  }
+}
