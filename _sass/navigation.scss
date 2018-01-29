@@ -9,9 +9,9 @@
 
 .site-header {
   overflow: hidden;
-  background-color: $yellow;
-  &--home {
-    background-color: transparent;
+  background-color: transparent;
+  &--page {
+    background-color: $yellow;
   }
 }
 

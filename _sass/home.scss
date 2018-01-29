@@ -93,10 +93,19 @@
   .section-heading {
     color: $yellow;
   }
+  .section-subheading {
+    margin: 0 auto $base-spacing;
+    width: 90%;
+    @media screen and (min-width: $medium-screen) {
+      width: 60%;
+    }
+    text-align: center;
+  }
 }
 
 .container--what-we-do {
   background-color: #fff;
+  border-radius: $base-border-radius;
   padding: $base-spacing;
   margin: -2 * $base-spacing $small-spacing 0;
   @media screen and (min-width: $medium-screen) {
@@ -148,6 +157,7 @@
 .what-we-do--area--title {
   color: $base-font-color;
   font-size: modular-scale(2);
+  margin-bottom: $base-spacing;
 }
 
 .what-we-do--area--button {
@@ -275,6 +285,7 @@
 .supporters--item {
   background-color: #fff;
   position: relative;
+  border-radius: $base-border-radius;
   box-shadow: 0 $base-spacing 4 * $base-spacing (-$base-spacing) rgba(100,100,100,.5);
   z-index: 99;
   flex: 0 1 33.3%;
@@ -449,7 +460,7 @@
     font-size: modular-scale(2);
   }
   @media screen and (min-width: $large-screen) {
-    font-size: modular-scale(4);
+    font-size: modular-scale(3);
   }
   font-weight: 900;
 }
@@ -466,7 +477,7 @@
 ============ */
 
 .section--blog {
-  margin: 2 * $base-spacing 0;
+  margin: 4 * $base-spacing 0 8 * $base-spacing;
 }
 
 .container--blog {
@@ -481,22 +492,53 @@
 
 .blog--item {
   background-color: #fff;
+  border: .2rem solid $base-font-color;
   flex: 0 1 33.3%;
   margin-bottom: $base-spacing;
+  display: flex;
+  border-radius: $base-border-radius;
+  flex-direction: column;
+  padding: $base-spacing;
   @media screen and (min-width: $medium-screen) {
     margin-bottom: 0;
     margin-left: $base-spacing;
   }
   @media screen and (min-width: $large-screen) {
+    padding: 2 * $base-spacing 1.5 * $base-spacing;
     margin-left: 2 * $base-spacing;
   }
   &:first-child {
     margin-left: 0;
   }
-  padding: $base-spacing;
   box-shadow: 0 $base-spacing 4 * $base-spacing (-$base-spacing) rgba(100,100,100,.5);
+  color: $base-font-color;
+  transition-property: opacity, transform, box-shadow !important;
+  &.aos-animate {
+
+    &:hover {
+      transform: translateY(-$small-spacing) !important;
+      transition-delay: 200ms !important;
+      box-shadow: 0 1.5 * $base-spacing 5 * $base-spacing (-$base-spacing) rgba(100,100,100,.5);
+    }
+  }
+}
+
+.blog--item--title {
+  margin-bottom: $base-spacing;
+  font-size: modular-scale(2);
+  font-weight: 900;
+}
+
+.blog--item--excerpt {
+  font-weight: 700;
 }
 
 .blog--item--icon {
   margin-bottom: $base-spacing;
+}
+
+.blog--item--date {
+  margin-top: auto;
+  padding-top: $base-spacing;
+  font-weight: 700;
 }

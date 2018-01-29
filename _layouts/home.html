@@ -17,6 +17,7 @@ layout: default
 <section class="section section--what-we-do" id="what-we-do">
   <div class="container container--narrow container--what-we-do">
     <h2 class="section-heading">What we do</h2>
+    <p class="section-subheading">We create and enable community-led housing across Leeds City Region.</p>
     <nav class="what-we-do--areas">
       <div class="what-we-do--area">
         <div class="what-we-do--area--thumb">
@@ -25,7 +26,7 @@ layout: default
         <div class="what-we-do--area--text">
           <h3 class="what-we-do--area--title">Our hub</h3>
           <p class="what-we-do--area--description">We’ve created a new space where we can all work together to create people powered homes</p>
-          <a class="button what-we-do--area--button">Learn more</a>
+          <!-- <a class="button what-we-do--area--button">Learn more</a> -->
         </div>
       </div>
       <div class="what-we-do--area">
@@ -35,7 +36,7 @@ layout: default
         <div class="what-we-do--area--text">
           <h3 class="what-we-do--area--title">Our houses</h3>
           <p class="what-we-do--area--description">We’re building sixteen new permanently affordable homes in Leeds’ Climate Innovation District</p>
-          <a class="button what-we-do--area--button">Learn more</a>
+          <!-- <a class="button what-we-do--area--button">Learn more</a> -->
         </div>
       </div>
       <div class="what-we-do--area" href="#">
@@ -45,10 +46,26 @@ layout: default
         <div class="what-we-do--area--text">
           <h3 class="what-we-do--area--title">Our support</h3>
           <p class="what-we-do--area--description">We’re committed to helping emerging and existing groups produce more community-led housing</p>
-          <a class="button what-we-do--area--button">Learn more</a>
+          <!-- <a class="button what-we-do--area--button">Learn more</a> -->
         </div>
       </div>
     </nav>
+  </div>
+</section>
+
+
+
+<section class="section section--blog">
+  <h2 class="section-heading">Latest updates</h2>
+  <div class="container container--blog">
+    {% for post in site.posts %}
+    <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item" data-aos="fade-up" data-aos-ratio=".25" data-aos-delay="{{ forloop.index | minus: 1 |  times:200 }}">
+      <img src="{{ site.baseurl }}{{ post.image }}" class="blog--item--icon" />
+      <h3 class="blog--item--title">{{ post.title }}</h3>
+      <p class="blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 70 }} </p>
+      <div class="blog--item--date">{{ post.date | date: "%d.%m.%y " }}</div>
+    </a>
+    {% endfor %}
   </div>
 </section>
 
@@ -131,7 +148,7 @@ layout: default
   <h2 class="section-heading">Our progress so far</h2>
   <div class="container container--narrow container--progress">
     <div class="progress--item">
-      <div class="progress--item--figure"><span id="figure-members">178</span></div>
+      <div class="progress--item--figure"><span id="figure-members">266</span></div>
       <div class="progress--item--text">members</div>
     </div>
     <div class="progress--item">
@@ -140,7 +157,7 @@ layout: default
     </div>
     <div class="progress--item">
       <div class="progress--item--figure"><span id="figure-homes">16</span></div>
-      <div class="progress--item--text">houses built</div>
+      <div class="progress--item--text">homes started</div>
     </div>
   </div>
   <div class="container">
@@ -148,24 +165,3 @@ layout: default
   </div>
 </section>
 
-
-<section class="section section--blog">
-  <h2 class="section-heading">Our blog</h2>
-  <div class="container container--blog">
-    <div class="blog--item" data-aos="fade-up" data-aos-ratio=".25">
-      <img src="http://fillmurray.com/300/200" class="blog--item--icon" />
-      <h3 class="blog--item--title">Why the government’s latest housing plans don't add up.</h3>
-      <p class="blog--item--excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
-    </div>
-    <div class="blog--item" data-aos="fade-up" data-aos-ratio=".25" data-aos-delay="200">
-      <img src="http://fillmurray.com/300/200" class="blog--item--icon" />
-      <h3 class="blog--item--title">Our new affordable homes are now for sale!</h3>
-      <p class="blog--item--excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
-    </div>
-    <div class="blog--item" data-aos="fade-up" data-aos-ratio=".25" data-aos-delay="400">
-      <img src="http://fillmurray.com/300/200" class="blog--item--icon" />
-      <h3 class="blog--item--title">Can houses be both sustainable and affordable?</h3>
-      <p class="blog--item--excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
-    </div>
-  </div>
-</section>
