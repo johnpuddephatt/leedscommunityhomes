@@ -9,6 +9,8 @@
 
 .site-header {
   overflow: hidden;
+  position: relative;
+  z-index: 99;
   background-color: transparent;
   &--page {
     background-color: $yellow;

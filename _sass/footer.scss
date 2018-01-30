@@ -2,6 +2,10 @@
   background-color: $yellow;
   background-image: linear-gradient(to top, $yellow1, $yellow2);
   padding: 2 * $base-spacing 0;
+  border-top: $base-border;
+  border-bottom: $base-border;
+  margin-bottom: 45vh;
+  position: relative;
   .container {
     display: flex;
     flex-direction: column;
@@ -39,5 +43,68 @@
 .footer-logo {
   flex: 0 0 25%;
   text-align: right;
+}
 
+
+.secondary-footer {
+  height: 45vh;
+  position: absolute;
+  bottom: 0;
+  background-color: white;
+  left: 0;
+  width: 100%;
+  z-index: -9;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  .footer-title {
+    font-size: modular-scale(2);
+    margin-bottom: 0;
+  }
+}
+
+.container--footer-logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: $base-spacing;
+  margin-bottom: $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    flex-wrap: nowrap;
+  }
+}
+
+.footer-logo-link {
+  flex: 1 1 10%;
+  margin-right: $base-spacing;
+  @media screen and (min-width: $large-screen) {
+    margin-right: 2 * $base-spacing;
+  }
+  &:last-child {
+    margin-right: 0;
+  }
+  &.wide {
+    flex: 1 1 100%;
+    margin: $base-spacing 4 * $base-spacing;
+    @media screen and (min-width: $medium-screen) {
+      margin: 0;
+      margin-right: 2 * $base-spacing;
+    }
+    @media screen and (min-width: $large-screen) {
+      flex: 1 1 35%;
+      margin-right: 4 * $base-spacing;
+    }
+  }
+  &.medium {
+    flex: 1 1 20%;
+  }
+  img {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+    max-height: 5 * $base-spacing;
+    height: auto;
+  }
 }

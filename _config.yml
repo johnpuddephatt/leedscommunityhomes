@@ -23,6 +23,7 @@ twitter_username:
 header_pages:
 # Build settings
 markdown: kramdown
+google_analytics: UA-75597556-1
 header_pages:
   - hub.md
   - homes.md

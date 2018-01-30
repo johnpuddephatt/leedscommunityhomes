@@ -9,7 +9,8 @@ html {
 }
 
 html,
-body {
+body,
+.viewport {
   margin: 0;
   padding: 0;
   height: 100%;
@@ -17,12 +18,15 @@ body {
   overflow: hidden;
 }
 
-body {
+.viewport {
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
   perspective: 1px;
 }
 
+main {
+  background-color: white;
+}
 
 .container {
   max-width: $max-screen;
