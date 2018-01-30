@@ -4,7 +4,6 @@
   padding: 2 * $base-spacing 0;
   border-top: $base-border;
   border-bottom: $base-border;
-  margin-bottom: 45vh;
   position: relative;
   .container {
     display: flex;
@@ -47,16 +46,14 @@
 
 
 .secondary-footer {
-  height: 45vh;
-  position: absolute;
-  bottom: 0;
+  padding: 2 * $base-spacing 0;
   background-color: white;
-  left: 0;
-  width: 100%;
-  z-index: -9;
   display: flex;
   justify-content: center;
   flex-direction: column;
+  a {
+    font-weight: 700;
+  }
   .footer-title {
     font-size: modular-scale(2);
     margin-bottom: 0;
@@ -77,10 +74,10 @@
 }
 
 .footer-logo-link {
-  flex: 1 1 10%;
-  margin-right: $base-spacing;
+  flex: 1 1 7.5%;
+  margin-right: $small-spacing;
   @media screen and (min-width: $large-screen) {
-    margin-right: 2 * $base-spacing;
+    margin-right: $base-spacing;
   }
   &:last-child {
     margin-right: 0;
@@ -90,15 +87,16 @@
     margin: $base-spacing 4 * $base-spacing;
     @media screen and (min-width: $medium-screen) {
       margin: 0;
+      flex: 1 1 40%;
       margin-right: 2 * $base-spacing;
     }
     @media screen and (min-width: $large-screen) {
-      flex: 1 1 35%;
-      margin-right: 4 * $base-spacing;
+      flex: 1 1 37.5%;
+      margin-right: 5 * $base-spacing;
     }
   }
   &.medium {
-    flex: 1 1 20%;
+    flex: 1 1 15%;
   }
   img {
     margin: 0 auto;
