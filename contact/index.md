@@ -9,7 +9,7 @@ If you’d like to get in touch with Leeds Community Homes you can contact us vi
 
 <form method="POST" action="https://form.letsdance.agency/zXE32nJQ" class="contact-form">
   <h2 class="form-title">Send us a message</h2>
-  <input type="text" name="_honeypot" value="" style="display: none;">
+  <input type="text" name="_honey" value="" style="display: none;">
   <input type="hidden" name="_subject" value="Message from leedscommunityhomes.org.uk" >
   <input type="email" name="_replyto" placeholder="Your email" required="">
   <input type="text" name="name" placeholder="Your name" required="">
