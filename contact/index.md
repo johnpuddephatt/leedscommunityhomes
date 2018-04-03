@@ -10,12 +10,12 @@ If you’d like to get in touch with Leeds Community Homes you can contact us vi
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <form method="POST" action="https://form.letsdance.agency/57nQPDw4" class="contact-form">
   <h2 class="form-title">Send us a message</h2>
-  <div class="g-recaptcha" data-sitekey="6LdNn1AUAAAAAA-VLy7CCzufqQi7EhPyoWQwcHIM"></div>
   <input type="text" name="_honey" value="" style="display: none;">
   <input type="hidden" name="_subject" value="Message from leedscommunityhomes.org.uk" >
   <input type="email" name="_replyto" placeholder="Your email" required="">
   <input type="text" name="name" placeholder="Your name" required="">
   <textarea rows="7" name="message" placeholder="Your message" required=""></textarea>
+  <div class="g-recaptcha" data-sitekey="6LdNn1AUAAAAAA-VLy7CCzufqQi7EhPyoWQwcHIM"></div>
   <input type="submit" value="Send">
 </form>
 
