@@ -4,14 +4,13 @@
 
 .section--hero {
 
-  .container {
+  .section--hero--inner {
     display: flex;
     flex-direction: column;
     justify-content: center;
     height: calc(100vh - #{4 * $base-spacing});
     @media screen and (min-width: $medium-screen) {
       flex-direction: row;
-      height: calc(100vh - #{4 * $base-spacing});
       align-items: center;
     }
   }
@@ -50,20 +49,28 @@
 
 .hero-text {
   position: relative;
-  &::after {
-    content: '';
-    display: block;
-    position: absolute;
-    width: 10 * $base-spacing;
-    height: 3 * $base-spacing;
-    top: 105%;
-    right: 0;
-    background-image: url(../assets/images/hero-clouds.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    animation: heroCloud 25s infinite linear;
-    z-index: 99;
+  flex: 0 0 40%;
+  &--home {
+    padding-bottom: 2 * $base-spacing;
+
+    &::after {
+      content: '';
+      display: block;
+      position: absolute;
+      width: 10 * $base-spacing;
+      height: 3 * $base-spacing;
+      bottom: 0;
+      @media screen and (min-width: $medium-screen) {
+        bottom: -10%
+      }
+      right: 0;
+      background-image: url(../assets/images/hero-clouds.svg);
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      animation: heroCloud 25s infinite linear;
+      z-index: 99;
+    }
   }
 }
 
@@ -71,11 +78,11 @@
   0%,100% {
     transform: translateX(0);
   }
-  60% {
+  50% {
     transform: translateX(75vw)
   }
-  60.001% {
-    transform: translateX(-50vw)
+  50.001% {
+    transform: translateX(-75vw)
   }
 }
 
@@ -83,10 +90,8 @@
   color: #fff;
   margin-top: 2 * $base-spacing;
   font-weight: 900;
-  font-size: modular-scale(3);
-  @media screen and (min-width: $medium-screen) {
-    font-size: modular-scale(4);
-  }
+  line-height: $heading-line-height;
+  font-size: modular-scale(4);
   @media screen and (min-width: $large-screen) {
     font-size: modular-scale(5);
   }
@@ -147,7 +152,7 @@
   @media screen and (min-width: $large-screen) {
     margin: -2 * $base-spacing auto 0;
   }
-  box-shadow: 0 $base-spacing 4 * $base-spacing (-$base-spacing) rgba(100,100,100,.5);
+  box-shadow: $base-box-shadow;
 }
 
 
@@ -474,10 +479,7 @@
 }
 
 .section--progress {
-  padding: 2 * $base-spacing 0 4 * $base-spacing;
-  @media screen and (min-width: $medium-screen) {
-    padding: 2 * $base-spacing 0 6 * $base-spacing;
-  }
+  padding: 2 * $base-spacing 0 $base-spacing;
   .container {
     position: relative;
   }

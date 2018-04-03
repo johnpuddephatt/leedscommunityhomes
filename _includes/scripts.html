@@ -43,9 +43,9 @@
     duration: 2000,
     shape : 'circle',
     radius: {10:30},
-    count: 12,
-    x: '40%',
-    y: '40%',
+    count: 8,
+    x: '10%',
+    y: '10%',
     delay: 0,
     isRunLess: true,
     easing: mojs.easing.bezier(0.1, 1, 0.3, 1),
@@ -89,9 +89,9 @@
 				// burst animation
 				new mojs.Burst(extend(Starburst.prototype.options,{
           parent: heroImage,
-          x: '30%',
-          y: '10%',
-          count: 6,
+          x: '10%',
+          y: '0%',
+          // count: 8,
           delay: 200
         }))
       ]
@@ -102,9 +102,21 @@
         // burst animation
         new mojs.Burst(extend(Starburst.prototype.options,{
           parent: heroImage,
-          x: '60%',
-          y: '80%',
-          count: 10,
+          x: '62.5%',
+          y: '7.5%',
+          // count: 10,
+        }))
+      ]
+    });
+
+    new Starburst(heroImage, {
+      tweens : [
+        // burst animation
+        new mojs.Burst(extend(Starburst.prototype.options,{
+          parent: heroImage,
+          x: '90%',
+          y: '0%',
+          // count: 10,
         }))
       ]
     });
@@ -147,7 +159,7 @@
 
     var callback =  function(entries, observer) {
       entries.forEach(entry => {
-        if(entry.intersectionRatio >= .75) {
+        if(entry.intersectionRatio >= .5) {
           entry.target.classList.add('aos-animate');
         }
         else if(entry.intersectionRatio == 0) {
@@ -162,44 +174,45 @@
       observer.observe(image);
     });
 
+
+
+
+
+    /*  countUp */
+
+    var countOptions = {
+      threshold: [.1,.65],
+      rootMargin: '0px -40px'
+    };
+
+    var progress = document.querySelectorAll(".container--progress"),
+        triggered;
+
+    var membersCount = new CountUp('figure-members', 0, 178, 0, 2);
+    var moneyCount = new CountUp('figure-money', 0, 360, 0, 3);
+    var homesCount = new CountUp('figure-homes', 0, 16, 0, 4);
+
+    var callback =  function(entries, observer) {
+      entries.forEach(entry => {
+        if(entry.intersectionRatio >= .65 && !triggered) {
+          entry.target.classList.add('visible');
+          membersCount.start();
+          setTimeout(moneyCount.start, 500);
+          setTimeout(homesCount.start, 1000);
+          var triggered = true;
+
+        }
+        else if(entry.intersectionRatio <= .1) {
+          entry.target.classList.remove('visible');
+        }
+      });
+    }
+
+    var countObserver = new IntersectionObserver(callback, countOptions);
+
+    countObserver.observe(progress[0]);
+
   }
-
-
-
-  /*  countUp */
-
-  var countOptions = {
-    threshold: [.1,.75],
-    rootMargin: '0px -40px'
-  };
-
-  var progress = document.querySelector(".container--progress"),
-      triggered;
-
-  var membersCount = new CountUp('figure-members', 0, 178, 0, 2);
-  var moneyCount = new CountUp('figure-money', 0, 360, 0, 3);
-  var homesCount = new CountUp('figure-homes', 0, 16, 0, 4);
-
-  var callback =  function(entries, observer) {
-    entries.forEach(entry => {
-      if(entry.intersectionRatio >= .75 && !triggered) {
-        entry.target.classList.add('visible');
-        membersCount.start();
-        setTimeout(moneyCount.start, 500);
-        setTimeout(homesCount.start, 1000);
-        var triggered = true;
-
-      }
-      else if(entry.intersectionRatio <= .1) {
-        entry.target.classList.remove('visible');
-      }
-    });
-  }
-
-  var countObserver = new IntersectionObserver(callback, countOptions);
-
-  countObserver.observe(progress);
-
 
 
   </script>

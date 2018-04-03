@@ -7,11 +7,12 @@ title: Contact
 ---
 If you’d like to get in touch with Leeds Community Homes you can contact us via [Twitter](https://twitter.com/leedscommhomes), [Facebook](https://www.facebook.com/LeedsCommunityHomes/) or by sending a message through the form below and we’ll get back to you.
 
-<form method="POST" action="http://formspree.io/john@letsdance.agency" class="contact-form">
+<form method="POST" action="https://form.letsdance.agency/zXE32nJQ" class="contact-form">
   <h2 class="form-title">Send us a message</h2>
+  <input type="hidden" name="_subject" value="Message from leedscommunityhomes.org.uk" >
   <input type="email" name="_replyto" placeholder="Your email" required="">
   <input type="text" name="name" placeholder="Your name" required="">
-  <textarea rows="7" name="body" placeholder="Your message" required=""></textarea>
+  <textarea rows="7" name="message" placeholder="Your message" required=""></textarea>
   <input type="submit" value="Send">
 </form>
 
@@ -25,20 +26,20 @@ If you’d like to get in touch with Leeds Community Homes you can contact us vi
   	message.failure = 'Whoops! There was a problem sending your message.';
 
   	var form = document.forms[0];
-
+    var formAction = form.getAttribute("action");
   	var statusMessage = document.createElement('div');
   	statusMessage.className = 'status';
 
   	// Set up the AJAX request
   	var request = new XMLHttpRequest();
-  	request.open('POST', '//formspree.io/info@leedscommunityhomes.org.uk', true);
+  	request.open('POST', formAction, true);
   	request.setRequestHeader('accept', 'application/json');
 
   	// Listen for the form being submitted
   	form.addEventListener('submit', function(evt) {
 
 	    evt.preventDefault();
-	    form.appendChild(statusMessage);
+      form.insertAdjacentElement('beforeend', statusMessage);
 
 	    // Create a new FormData object passing in the form's key value pairs (that was easy!)
 	    var formData = new FormData(form);
@@ -60,7 +61,7 @@ If you’d like to get in touch with Leeds Community Homes you can contact us vi
             if (request.status == 200 && request.status < 300)
                 statusMessage.innerHTML = message.success;
             else
-                form.insertAdjacentHTML('beforeend', message.failure);
+              statusMessage.innerHTML = message.failure;
         }
 	    }
   	});

@@ -19,7 +19,7 @@
 
 .site-title {
   color: #fff;
-  font-family: "Corporative Soft";
+  font-family: "Corporative Soft", "Barlow";
   font-size: modular-scale(1);
   font-weight: 900;
   line-height: 3 * $base-spacing;
@@ -47,8 +47,9 @@
   .page-link {
     color: #fff;
     text-transform: lowercase;
-    font-size: modular-scale(1);
+    font-size: modular-scale(0);
     font-weight: 900;
+    -webkit-font-smoothing: antialiased;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one

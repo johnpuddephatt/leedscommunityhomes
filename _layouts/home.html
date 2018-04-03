@@ -2,14 +2,16 @@
 layout: default
 ---
 
-<section class="section section--hero">
+<section class="section section--hero section--hero--home">
   <div class="container">
-    <div class="hero-image">
-      {% include cityscape.svg %}
-    </div>
-    <div class="hero-text">
-      <h1 class="hero-title">We’re starting a people powered homes revolution</h1>
-      <a href="#what-we-do" class="button hero-button inverted large">Find out how</a>
+    <div class="section--hero--inner">
+      <div class="hero-image">
+        {% include cityscape.svg %}
+      </div>
+      <div class="hero-text hero-text--home">
+        <h1 class="hero-title">We’re starting a people powered homes revolution</h1>
+        <a href="#what-we-do" class="button hero-button inverted large">Find out how</a>
+      </div>
     </div>
   </div>
 </section>
@@ -17,7 +19,7 @@ layout: default
 <section class="section section--what-we-do" id="what-we-do">
   <div class="container container--narrow container--what-we-do">
     <h2 class="section-heading">What we do</h2>
-    <p class="section-subheading">We create and enable community-led housing across Leeds City Region.</p>
+    <p class="section-subheading">We create and enable community-led homes across Leeds City Region.</p>
     <nav class="what-we-do--areas">
       <div class="what-we-do--area">
         <div class="what-we-do--area--thumb">
@@ -25,8 +27,8 @@ layout: default
         </div>
         <div class="what-we-do--area--text">
           <h3 class="what-we-do--area--title">Our hub</h3>
-          <p class="what-we-do--area--description">A space where we can work together to create people powered homes</p>
-          <!-- <a class="button what-we-do--area--button">Learn more</a> -->
+          <p class="what-we-do--area--description">We’ve created a space where we can all work together to create people powered homes</p>
+          <a href="/hub" class="button what-we-do--area--button">Learn more</a>
         </div>
       </div>
       <div class="what-we-do--area">
@@ -34,9 +36,9 @@ layout: default
           <img src="{{ site.baseurl }}/assets/images/what-houses.jpg" />
         </div>
         <div class="what-we-do--area--text">
-          <h3 class="what-we-do--area--title">Our houses</h3>
+          <h3 class="what-we-do--area--title">Our homes</h3>
           <p class="what-we-do--area--description">We’re building 16 permanently affordable homes in Leeds’ Climate Innovation District</p>
-          <!-- <a class="button what-we-do--area--button">Learn more</a> -->
+          <a href="/homes" class="button what-we-do--area--button">Learn more</a>
         </div>
       </div>
       <div class="what-we-do--area" href="#">
@@ -45,18 +47,16 @@ layout: default
         </div>
         <div class="what-we-do--area--text">
           <h3 class="what-we-do--area--title">Enabler service</h3>
-          <p class="what-we-do--area--description">We support communities to create their own community-led housing</p>
-          <!-- <a class="button what-we-do--area--button">Learn more</a> -->
+          <p class="what-we-do--area--description">We support local community groups to create their own community housing</p>
+          <a href="/enabler" class="button what-we-do--area--button">Learn more</a>
         </div>
       </div>
     </nav>
   </div>
 </section>
 
-
-
 <section class="section section--blog">
-  <h2 class="section-heading">Latest updates</h2>
+  <h2 class="section-heading">News &amp; updates</h2>
   <div class="container container--blog">
     {% for post in site.posts %}
     <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item" data-aos="fade-up" data-aos-ratio=".25" data-aos-delay="{{ forloop.index | minus: 1 |  times:200 }}">
