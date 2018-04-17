@@ -8,8 +8,8 @@ admin_path:
 webhook_url:
 collections:
   _sections:
-    default_front_matter_template: sections
+    default_front_matter_template: section
   _projects:
-    default_front_matter_template: projects
+    default_front_matter_template: project
   _posts:
-    default_front_matter_template: posts
+    default_front_matter_template: post
