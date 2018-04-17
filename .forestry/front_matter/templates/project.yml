@@ -27,29 +27,34 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: footer
-  label: Footer
-  type: textarea
-  hidden: false
-  default: ''
 - name: updates
   label: Updates
   type: field_group_list
   fields:
-  - name: date
+  - type: datetime
+    name: date
     label: Date
-    type: text
-    hidden: false
-    default: ''
+    config:
+      date_format: DD/MM/YYYY
+      required: true
   - name: title
     label: Title
     type: text
     hidden: false
     default: ''
-  - name: description
+  - type: textarea
+    name: description
     label: Description
-    type: textarea
-    hidden: false
-    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   hidden: false
   default: ''
+- type: textarea
+  name: footer
+  label: Footer
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
