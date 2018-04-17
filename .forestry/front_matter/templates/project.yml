@@ -7,21 +7,17 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: image
-  label: Image
-  type: text
-  hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: ''
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
+    required: true
 - name: description
   label: Description
   type: text
@@ -58,3 +54,6 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: file
+  name: image
+  label: Image
