@@ -1,6 +1,7 @@
 ---
 title: It’s nearly time for our AGM!
 image: /uploads/agm-coming.svg
+tags: members news event
 ---
 We look forward to welcoming members to our first AGM on 21 June 2017 at Heart in Headingley.
 

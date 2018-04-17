@@ -1,0 +1,133 @@
+.project--header {
+  position: relative;
+  .section--hero--inner {
+    position: relative;
+    height: auto !important;
+  }
+  &::before {
+    height: calc(100% + #{14 * $base-spacing});
+    top: -3 * $base-spacing
+  }
+  &::after{
+    top: 100%;
+    margin-top: -4 * $base-spacing;
+  }
+
+}
+
+.project--header--image {
+  position: relative;
+  width: 80%;
+  margin: 0 auto 4 * $base-spacing;
+  padding-top: $base-spacing;
+}
+
+.project--content {
+  margin-top: -2 * $base-spacing;
+  margin-bottom: 4 * $base-spacing;
+  padding: 4 * $base-spacing 4 * $base-spacing;
+  background-color: white;
+  z-index: 9;
+  position: relative;
+  box-shadow: $base-box-shadow;
+  font-size: modular-scale(1);
+  p:first-child {
+    font-size: modular-scale(1);
+    font-weight: 700;
+    margin-bottom: $base-spacing;
+  }
+  h2,h3,h4,h5,h6 {
+    margin-top: 2 * $base-spacing;
+    margin-bottom: 1 * $base-spacing;
+  }
+  .header-title {
+    font-size: modular-scale(5);
+    margin-top: 0;
+  }
+  .header-description {
+    font-weight: 900;
+    font-size: modular-scale(1);
+    line-height: $heading-line-height;
+  }
+}
+
+
+.project-updates {
+  .section-heading {
+    text-align: center;
+  }
+}
+
+.update-wrapper {
+  position: relative;
+  margin: 3 * $base-spacing 0;
+  &::before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: .2rem;
+    transform: translateX(-.1rem);
+    background-color: $base-font-color;
+    left: 50%;
+    top: 4 * $base-spacing;
+    bottom: 4 * $base-spacing;
+  }
+}
+
+.update {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: $base-spacing;
+  &:nth-child(2n) {
+    justify-content: flex-start;
+    text-align: right;
+    .update-text {
+      padding-left: 0;
+      padding-right: $base-spacing;
+    }
+    .update-date {
+      order: 5;
+    }
+  }
+}
+
+.update-date {
+  width: 20%;
+}
+
+.update-date-inner {
+  font-weight: 900;
+  font-size: modular-scale(1);
+  width: 5 * $base-spacing;
+  height: 2 * $base-spacing;
+  // border: .6rem double $base-font-color;
+  border: $base-border;
+  word-spacing: 9999px;
+  border-radius: 50%;
+  padding: 1.5 * $base-spacing 0;
+  line-height: 1 * $base-spacing;
+  text-align: center;
+  margin: 0 auto;
+  box-sizing: content-box;
+  background-color: white;
+  text-transform: uppercase;
+}
+
+.update-text {
+  padding-top: 2 * $base-spacing;
+  padding-bottom: 2 * $base-spacing;
+  padding-left: $base-spacing;
+  width: 40%;
+}
+
+
+
+.section-footer {
+  padding: 2 * $base-spacing;
+  border: $base-border;
+  box-shadow: $base-box-shadow;
+  margin-bottom: 2 * $base-spacing;
+}

@@ -24,15 +24,24 @@
   font-weight: 900;
   line-height: 3 * $base-spacing;
   @media screen and (min-width: $large-screen) {
-    font-size: modular-scale(1);
+    // font-size: modular-scale(1);
+  }
+  &:focus {
+    outline: none;
+    border-bottom: .15em solid white;
+    color: white;
   }
 }
+
 
 
 .site-nav {
   float: right;
   line-height: 3 * $base-spacing;
-
+  a:focus {
+    outline: none;
+    border-bottom: .15em solid white;
+  }
   .nav-trigger {
       display: none;
   }
@@ -59,6 +68,10 @@
     &.button {
       background-color: #fff;
       color: $action-color;
+      &:focus {
+        border-bottom: none;
+        color: $base-font-color;
+      }
     }
 
   }

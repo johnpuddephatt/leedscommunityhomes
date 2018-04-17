@@ -7,7 +7,7 @@
   .section--hero--inner {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     height: calc(100vh - #{4 * $base-spacing});
     @media screen and (min-width: $medium-screen) {
       flex-direction: row;
@@ -49,7 +49,7 @@
 
 .hero-text {
   position: relative;
-  flex: 0 0 40%;
+  flex: 0 0 42.5%;
   &--home {
     padding-bottom: 2 * $base-spacing;
 
@@ -108,7 +108,7 @@
   display: block;
   @media screen and (min-width: $medium-screen) {
     order: 2;
-    flex: 0 0 60%;
+    flex: 0 0 55%;
   }
   svg {
     width: 100%;
@@ -635,4 +635,46 @@
   margin-top: auto;
   padding-top: $base-spacing;
   font-weight: 700;
+}
+
+
+
+.announcement {
+  display: flex;
+  margin-top: 2 * $base-spacing;
+  margin-bottom: -2 *$base-spacing;
+  flex-direction: row;
+  background-color: #fff;
+  padding: $base-spacing;
+  border: $base-border;
+  border-radius: $base-border-radius;
+  line-height: $heading-line-height;
+  color: $base-font-color;
+  align-items: center;
+  .announcement-title {
+    font-weight: 700;
+    margin-bottom: $small-spacing/2;
+  }
+  .button {
+    text-indent: -9999px;
+    width: .75 * $base-spacing;
+    height: 2 * $base-spacing;
+    padding: 0;
+    line-height: 0;
+    flex: 0 0 auto;
+    display: block;
+    margin-left: $small-spacing/2;
+    position: relative;
+    background-color: #fff;
+    color: $base-font-color;
+    &::after {
+      text-indent: 0;
+      position: absolute;
+      top: 50%;
+      left: 80%;
+      content: "▶";
+      transform: translate(-50%,-50%);
+      font-size: modular-scale(1);
+    }
+  }
 }

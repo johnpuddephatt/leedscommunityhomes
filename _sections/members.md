@@ -6,6 +6,7 @@ layout: section
 title: Join us
 image: '/uploads/section-members.svg'
 description: We’re built on the support of our members
+hidden: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque modi similique, doloribus perspiciatis alias, reprehenderit necessitatibus! Ratione nesciunt aut totam, pariatur sint iure possimus maxime quae ipsam ex. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 

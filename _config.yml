@@ -37,3 +37,11 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+  sections:
+    output: true
+    permalink: /:title/index.html
+  projects:
+    output: true
+    permalink: /projects/:title/index.html

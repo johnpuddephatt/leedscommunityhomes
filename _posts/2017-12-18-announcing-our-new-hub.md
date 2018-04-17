@@ -1,6 +1,7 @@
 ---
 title: Announcing our new hub!
 image: /uploads/hub-announcement.svg
+tags: news
 ---
 Some great news as we being to wind down for Christmas - we can confirm that Power To Change have agreed to fund us during 2018 to establish a Community-Led Housing Hub - so that we can support more people to create People Powered Homes in Leeds!
 
