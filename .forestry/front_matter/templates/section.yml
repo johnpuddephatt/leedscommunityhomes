@@ -16,9 +16,7 @@ fields:
   name: description
   label: Description
   config:
-    wysiwyg: true
-    schema:
-      format: markdown
+    wysiwyg: false
 - type: datetime
   name: date
   hidden: true
