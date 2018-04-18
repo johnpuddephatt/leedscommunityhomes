@@ -1,11 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: section
 title: Our hub
-image: '/uploads/section-hub.svg'
-description: We’ve created a space where we can all work together to create people powered homes
+image: "/uploads/2018/04/18/section-hub.svg"
+description: We’ve created a space where we can all work together to create people
+  powered homes
+date: 2018-04-18 14:58:02 +0000
 ---
 With support from [Power To Change](https://www.powertochange.org.uk/funding/sector-funding/community-housing/), we’ve established a community-led housing hub in Cross Green, on the outskirts of Leeds city centre.
 
