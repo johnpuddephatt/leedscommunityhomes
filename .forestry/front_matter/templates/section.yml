@@ -1,0 +1,31 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: ''
+- type: textarea
+  name: description
+  label: Description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: datetime
+  name: date
+  hidden: true
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
+    required: true
+- type: file
+  name: image
+  label: Image
