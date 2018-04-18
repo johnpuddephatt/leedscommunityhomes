@@ -21,3 +21,7 @@ fields:
 - type: file
   name: image
   label: Image
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Enter each tag then press enter
