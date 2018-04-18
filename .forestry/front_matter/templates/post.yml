@@ -1,0 +1,26 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    time_format: "-"
+    date_format: DD/MM/YYYY
+- type: file
+  name: image
+  label: Image
+- type: tag_list
+  name: tags
+  label: Tags
+  description: Enter each tag then press enter.
+- type: text
+  name: external_link
+  label: External link
+  description: Setting an external link will make the post link straight to this URL
