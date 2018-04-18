@@ -31,7 +31,7 @@ layout: default
     <h2 class="section-heading">More news &amp; updates</h2>
     <div class="">
       {% for post in site.posts limit: 3%}
-      <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item" data-aos="fade-up" data-aos-ratio=".25" data-aos-delay="{{ forloop.index | minus: 1 |  times:200 }}">
+      <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item">
         <img src="{{ site.baseurl }}{{ post.image }}" class="blog--item--icon" />
         <h3 class="blog--item--title">{{ post.title }}</h3>
         <p class="blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 70 }} </p>
