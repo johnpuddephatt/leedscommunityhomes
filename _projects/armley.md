@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Armley project
-image: '/uploads/project-armley.svg'
+image: "/uploads/project-armley.svg"
 description: Can you help us start creating People Powered Homes in Armley?
 footer: |
   ## Why are we doing this?
@@ -12,16 +12,21 @@ footer: |
 updates:
 - date: Jan 2018
   title: Initial interest
-  description: Leeds Community Homes express their interest in Mistress Lane to Leeds City Council
+  description: Leeds Community Homes express their interest in Mistress Lane to Leeds
+    City Council
 - date: Mar 2018
   title: Feasibility funding
-  description: Leeds Community Homes receive funding from Locality to undertake initial feasibility work on the Mistress Lane site.
+  description: Leeds Community Homes receive funding from Locality to undertake initial
+    feasibility work on the Mistress Lane site.
 - date: Apr 2018
   title: Board backing
-  description: The Leeds Community Homes board agrees to continue to explore the possibility of building homes at Mistress Lane.
+  description: The Leeds Community Homes board agrees to continue to explore the possibility
+    of building homes at Mistress Lane.
 - date: May 2018
   title: Talking to the community
-  description: Leeds Community Homes begins conversations with local people and organisations in Armley, to explain plans and encourage people to get involved.
+  description: Leeds Community Homes begins conversations with local people and organisations
+    in Armley, to explain plans and encourage people to get involved.
+date: 2018-05-09 15:50:54 +0000
 ---
 We’re looking at a piece of land in Armley with potential for new homes.  It’s early days – and creating affordable housing is never easy – but we’ll do all we can to make it work.
 
