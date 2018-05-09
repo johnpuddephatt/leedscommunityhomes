@@ -10,16 +10,18 @@ footer: |
 
   We set up in 2016 – and last year we raised over £360,000 towards our first sixteen homes.  We’ve got big ambitions to build many more.
 updates:
-  - date: 10/04/2018
-    title: This is some title text
-    description: |
-      This is the main body of text. This is the main body of text. This is the main body of text. This is the main body of text. This is the main body of text. This is the main body of text.
-  - date: 5/08/2017
-    title: This is some title text
-    description: This is the main body of text. This is the main body of text. This is the main body of text. This is the main body of text. This is the main body of text. This is the main body of text.
-  - date: 30/01/2016
-    title: This is some title text
-    description: This is the main body of text. This is the main body of text. This is the main body of text. This is the main body of text. This is the main body of text. This is the main body of text.
+- date: Jan 2018
+  title: Initial interest
+  description: Leeds Community Homes express their interest in Mistress Lane to Leeds City Council
+- date: Mar 2018
+  title: Feasibility funding
+  description: Leeds Community Homes receive funding from Locality to undertake initial feasibility work on the Mistress Lane site.
+- date: Apr 2018
+  title: Board backing
+  description: The Leeds Community Homes board agrees to continue to explore the possibility of building homes at Mistress Lane.
+- date: May 2018
+  title: Talking to the community
+  description: Leeds Community Homes begins conversations with local people and organisations in Armley, to explain plans and encourage people to get involved.
 ---
 We’re looking at a piece of land in Armley with potential for new homes.  It’s early days – and creating affordable housing is never easy – but we’ll do all we can to make it work.
 

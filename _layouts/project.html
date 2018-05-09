@@ -25,7 +25,7 @@ layout: default
   <div class="update-wrapper">
     {% for update in page.updates %}
       <div class="update">
-        <div class="update-date"><div class="update-date-inner">{{ update.date | date: "%d %h" }}</div></div>
+        <div class="update-date"><div class="update-date-inner">{{ update.date | date: "%h %Y" }}</div></div>
         <div class="update-text" data-aos="{% cycle 'fade-left', 'fade-right' %}" data-aos-ratio=".25" >
           <h3 class="update-title">{{ update.title }}</h3>
           <div class="update-content">

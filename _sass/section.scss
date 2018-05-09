@@ -71,5 +71,15 @@
     margin-top: 2 * $base-spacing;
     margin-bottom: 1 * $base-spacing;
   }
+  ul, ol {
+    margin: 2 * $base-spacing 0;
+    font-size: modular-scale(-1);
+  }
+  li {
+    margin-bottom: $small-spacing;
+    list-style-type: square;
+    list-style-position: outside;
+    margin-left: $base-spacing;
+  }
 
 }

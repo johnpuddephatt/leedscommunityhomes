@@ -30,13 +30,18 @@ layout: default
   <aside class="aside--blog">
     <h2 class="section-heading">More news &amp; updates</h2>
     <div class="">
-      {% for post in site.posts limit: 3%}
+      {% assign count = 0 %}
+      {% for post in site.posts %}
+      {% if (post.path != page.path and count < 3 )%}
+      {% assign count = count | plus: 1%}
       <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item">
         <img src="{{ site.baseurl }}{{ post.image }}" class="blog--item--icon" />
         <h3 class="blog--item--title">{{ post.title }}</h3>
         <p class="blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 70 }} </p>
         <div class="blog--item--date">{{ post.date | date: "%d.%m.%y " }}</div>
       </a>
+      {% endif %}
+
       {% endfor %}
     </div>
   </aside>

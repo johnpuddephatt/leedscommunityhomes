@@ -590,6 +590,8 @@
   flex: 0 1 33.3%;
   margin-bottom: $base-spacing;
   display: flex;
+  position: relative;
+  z-index: 9;
   border-radius: $base-border-radius;
   flex-direction: column;
   padding: $base-spacing;
@@ -637,44 +639,111 @@
   font-weight: 700;
 }
 
+.blog--view-all {
+  text-align: center;
+  margin-top: -1 * $base-spacing;
+  position: relative;
+  z-index: 0;
+}
 
 
-.announcement {
+
+.container--latest-project {
   display: flex;
-  margin-top: 2 * $base-spacing;
-  margin-bottom: -2 *$base-spacing;
   flex-direction: row;
+  margin-left: $base-spacing;
+  margin-right: $base-spacing;
+  @media screen and (min-width: $large-screen) {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  @media screen and (orientation: portrait) {
+    flex-direction: column;
+    margin-left: $small-spacing;
+    margin-right: $small-spacing;
+    font-size: modular-scale(-1);
+  }
+  margin-top: 4 * $base-spacing;
+  margin-bottom: 6 *$base-spacing;
   background-color: #fff;
-  padding: $base-spacing;
+  position: relative;
   border: $base-border;
   border-radius: $base-border-radius;
-  line-height: $heading-line-height;
-  color: $base-font-color;
   align-items: center;
-  .announcement-title {
-    font-weight: 700;
-    margin-bottom: $small-spacing/2;
-  }
-  .button {
-    text-indent: -9999px;
-    width: .75 * $base-spacing;
-    height: 2 * $base-spacing;
-    padding: 0;
-    line-height: 0;
-    flex: 0 0 auto;
-    display: block;
-    margin-left: $small-spacing/2;
-    position: relative;
-    background-color: #fff;
-    color: $base-font-color;
-    &::after {
-      text-indent: 0;
-      position: absolute;
-      top: 50%;
-      left: 80%;
-      content: "▶";
-      transform: translate(-50%,-50%);
-      font-size: modular-scale(1);
+  .latest-project--image {
+    flex: 0 0 40%;
+    margin-top: -$base-spacing;
+    margin-bottom: -$base-spacing;
+    margin-left: -.9 * $base-spacing;
+    margin-right: $base-spacing;
+    border-radius: 50%;
+    overflow: hidden;
+    @media screen and (orientation: portrait) {
+      margin-right: 0;
+      margin-left: 0;
+      width: 80%;
+    }
+    img {
+      display: block;
     }
   }
+  .latest-project--text {
+    margin: $base-spacing;
+    @media screen and (orientation: portrait) {
+      margin-top: 2 * $base-spacing;
+      margin-bottom: 2 * $base-spacing;
+    }
+  }
+  .latest-project--header {
+    font-weight: 900;
+    margin-bottom: 0;
+    font-size: modular-scale(0);
+    line-height: $heading-line-height;
+  }
+  .latest-project--name {
+    color: $yellow;
+    font-size: modular-scale(4);
+    line-height: $heading-line-height;
+    font-weight: 900;
+    margin-bottom: $small-spacing;
+  }
+  .latest-project--description {
+    font-weight: 700;
+    font-size: modular-scale(1);
+    margin-bottom: $base-spacing;
+  }
+  &::after {
+    content: '';
+    height: 5 * $base-spacing;
+    width: 100%;
+    display: block;
+    position: absolute;
+    left: 0%;
+    bottom: -3 * $base-spacing;
+    background-image: url(../uploads/latest-project-bottom.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    @media screen and (orientation: portrait) {
+      bottom: -4 * $base-spacing;
+    }
+  }
+  &::before {
+    content: '';
+    height: 5 * $base-spacing;
+    width: 75%;
+    display: block;
+    position: absolute;
+    right: -8 * $base-spacing;
+    top: -4 * $base-spacing;
+    background-image: url(../uploads/latest-project-top.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    @media screen and (orientation: portrait) {
+      right: -2 * $base-spacing;
+      top: -2 * $base-spacing;
+      height: 6 * $base-spacing;
+      width: 85%;
+    }
+  }
+
 }

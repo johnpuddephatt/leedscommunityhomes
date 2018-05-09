@@ -62,10 +62,23 @@ layout: default
   </div>
 </section>
 
+<section class="section section--latest-project">
+  <div class="container container--narrow container--latest-project">
+    <div class="latest-project--image">
+      <img src="/uploads/armley-project-photo.jpg" alt="Photo of Armley in Leeds">
+    </div>
+    <div class="latest-project--text">
+      <h2 class="latest-project--header">Our latest project</h2>
+      <div class="latest-project--name">Armley</div>
+      <div class="latest-project--description">We’re exploring a new opportunity to create homes in Armley and are looking for local people to get involved.</div>
+      <a class="button latest-project--button" href="/projects/armley/">Read more</a>
+    </div>
+  </div>
+</section>
 <section class="section section--blog">
   <h2 class="section-heading">News &amp; updates</h2>
   <div class="container container--blog">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:3 %}
     <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item" data-aos="fade-up" data-aos-ratio=".25" data-aos-delay="{{ forloop.index | minus: 1 |  times:200 }}">
       <img src="{{ site.baseurl }}{{ post.image }}" class="blog--item--icon" />
       <h3 class="blog--item--title">{{ post.title }}</h3>
@@ -74,6 +87,12 @@ layout: default
     </a>
     {% endfor %}
   </div>
+  {% assign postcount = site.posts.size %}
+  {% if site.posts.size > 3 %}
+  <div class="blog--view-all">
+    <a href="/blog/" class="button button--view-all--button">View all blog posts</a>
+  </div>
+  {% endif %}
 </section>
 
 <section class="section section--why">
@@ -105,8 +124,8 @@ layout: default
       </div>
       <div class="why--item--text" data-aos="fade-left" data-aos-ratio=".75">
         {% include dash-stripe.svg %}
-        <h3 class="why--item--heading">Creativity</h3>
-        <p class="why--item--description">To provide more affordable homes we’ll work creatively - using innovative techniques to build and finance new homes for Leeds.</p>
+        <h3 class="why--item--heading">Diversity</h3>
+        <p class="why--item--description">We work closely with communities to develop homes that are right for them, favouring creativity and innovation over one-size fits all.</p>
       </div>
     </div>
 
