@@ -31,4 +31,4 @@ We’re looking at a piece of land in Armley with potential for new homes.  It�
 
 If this is to happen, we’ll need the people of Armley involved. People who might be interested in living in one of the homes, and people who’d like to see more affordable homes in their neighbourhood.
 
-Might that be you?  It’d be great to tell you more about where we’re up to – and to get your thoughts on how we could make this work in Armley. If you're interested, please join us at **our upcoming event** or [get in touch](mailto:armley@leedscommunityhomes.org.uk).
+Might that be you?  It’d be great to tell you more about where we’re up to – and to get your thoughts on how we could make this work in Armley. If you're interested, please join us at our upcoming event – details of which will be on the site soon. Alternatively, [get in touch](mailto:armley@leedscommunityhomes.org.uk) and we’ll keep you posted.
