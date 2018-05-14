@@ -12,8 +12,7 @@ footer: |
 updates:
 - date: Jan 2018
   title: Initial interest
-  description: Leeds Community Homes express their interest in Mistress Lane to Leeds
-    City Council
+  description: Leeds City Council approach Leeds Community Homes to begin conversations about a piece of land they own on Mistress Lane in Armley.
 - date: Mar 2018
   title: Feasibility funding
   description: Leeds Community Homes receive funding from Locality to undertake initial
