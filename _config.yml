@@ -26,9 +26,9 @@ markdown: kramdown
 google_analytics: UA-75597556-1
 header_pages:
   - hub/index.md
-  - homes/index.md
   - enabler/index.md
 footer_pages:
+  - blog/index.md
   - faqs/index.md
   - contact/index.md
 plugins:
