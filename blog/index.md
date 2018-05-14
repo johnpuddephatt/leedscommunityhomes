@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: News and updates
+title: Blog
 description: We’re building 16 permanently affordable homes in Leeds’ Climate Innovation District
 ---
 {% for post in site.posts %}
