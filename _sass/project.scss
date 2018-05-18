@@ -155,6 +155,16 @@
   .section-heading {
     margin-bottom: 2 * $base-spacing;
   }
+  .blog--item--date {
+    padding-top: 0;
+    margin-bottom: $small-spacing;
+  }
+  .blog--item--title {
+    margin-bottom: $small-spacing;
+  }
+  .post-tags {
+    margin-top: $base-spacing;
+  }
 }
 
 .section-footer {
