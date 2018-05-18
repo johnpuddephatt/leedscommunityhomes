@@ -7,10 +7,11 @@
   .section--hero--inner {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     height: calc(100vh - #{4 * $base-spacing});
     @media screen and (min-width: $medium-screen) {
       flex-direction: row;
+      justify-content: space-between;
       align-items: center;
     }
   }
@@ -59,7 +60,7 @@
       position: absolute;
       width: 10 * $base-spacing;
       height: 3 * $base-spacing;
-      bottom: 0;
+      bottom: -$base-spacing;
       @media screen and (min-width: $medium-screen) {
         bottom: -10%
       }
@@ -68,22 +69,32 @@
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center;
-      animation: heroCloud 25s infinite linear;
+      animation: heroCloudSmall 25s infinite linear;
+      @media screen and (min-width: $medium-screen) {
+        animation: heroCloud 25s infinite linear;
+      }
       z-index: 99;
     }
   }
 }
 
+@keyframes heroCloudSmall {
+  0%,100% {
+    transform: translateX(-100vw);
+  }
+  99.99% {
+    transform: translateX(50vw)
+  }
+
+}
 @keyframes heroCloud {
   0%,100% {
-    transform: translateX(0);
+    transform: translateX(-50vw);
   }
-  50% {
+  99.99% {
     transform: translateX(75vw)
   }
-  50.001% {
-    transform: translateX(-75vw)
-  }
+
 }
 
 .hero-title {
@@ -106,6 +117,7 @@
   height: auto;
   position: relative;
   display: block;
+
   @media screen and (min-width: $medium-screen) {
     order: 2;
     flex: 0 0 55%;

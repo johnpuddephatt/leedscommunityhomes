@@ -1,7 +1,7 @@
 ---
 title: Help us build People Powered Homes in Armley
 image: /uploads/armley-launch.svg
-tags: news projects
+tags: news projects armley
 ---
 We’re a Community Land Trust – a not-for-profit organisation that uses people power to create homes that people can afford to buy or rent.
 

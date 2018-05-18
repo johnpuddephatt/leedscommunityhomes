@@ -11,7 +11,6 @@
   overflow: hidden;
   position: relative;
   z-index: 99;
-  background-color: transparent;
   &--page {
     background-color: $yellow;
   }
@@ -20,11 +19,11 @@
 .site-title {
   color: #fff;
   font-family: "Corporative Soft", "Barlow";
-  font-size: modular-scale(1);
+  font-size: modular-scale(0);
   font-weight: 900;
   line-height: 3 * $base-spacing;
   @media screen and (min-width: $large-screen) {
-    // font-size: modular-scale(1);
+    font-size: modular-scale(1);
   }
   &:focus {
     outline: none;
@@ -43,10 +42,11 @@
     border-bottom: .15em solid white;
   }
   .nav-trigger {
-      display: none;
+    display: none;
   }
   label[for="nav-trigger"] {
     display: none;
+    margin-bottom: 0;
   }
 
   .menu-icon {
@@ -78,26 +78,32 @@
 
   @media screen and (max-width: $medium-screen) {
 
+
     label[for="nav-trigger"] {
       display: block;
       float: right;
-      z-index: 2;
+      z-index: 99999;
       cursor: pointer;
+      position: relative;
     }
 
     .menu-icon {
       display: block;
       float: right;
       text-align: center;
+      position: relative;
     }
 
     input ~ .trigger {
       clear: both;
-      display: none;
+      display: flex;
+      position: fixed;
+      z-index: -9999;
+      opacity: 0;
     }
 
     input:checked ~ .trigger {
-      display: flex;
+      opacity: 1;
       flex-direction: column;
       align-items: center;
       justify-content: center;
@@ -109,17 +115,31 @@
       left: 0;
       bottom: 0;
       animation: fadeIn 1s forwards;
+      .page-link {
+        opacity: 1;
+        transform: translateY(0);
+      }
     }
 
     .page-link {
       display: block;
       color: $base-font-color;
+      font-size: modular-scale(2);
+      opacity: 0;
+      transform: translateY($small-spacing);
 
-
+      &:hover {
+        color: $action-color;
+      }
       &:not(:last-child) {
         margin-right: 0;
       }
       margin-left: $base-spacing;
+      @for $i from 1 through 20 {
+        &:nth-child(#{$i}) {
+          transition: opacity $base-duration #{$i * $base-duration}, transform $base-duration #{$i * $base-duration}, color $base-duration 0ms;
+        }
+      }
     }
   }
 }
