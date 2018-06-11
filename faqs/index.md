@@ -44,11 +44,18 @@ In 2017 Leeds Community Homes received £10,000 from the Community Land Trust Ne
 
 ### Who’s involved with Leeds Community Homes?
 
-There are now around 275 members of Leeds Community Homes – and our Board of Directors consists of up to 12 members (there are currently 10 Board members) who have a wide range of relevant expertise.  We will seek to recruit more Board members at our next AGM, in June 2018.
+There are now around 275 members of Leeds Community Homes – and our Board of Directors consists of up to 12 members (there are currently 10 Board members) who have a wide range of relevant expertise.  We will seek to recruit more Board members at our next AGM, in September 2018.
 
 ### How can I get involved with Leeds Community Homes?
 
 If you support what we’re trying to achieve, you can become a member of Leeds Community Homes for £1. If you would like to become a member [please email us](mailto:info@leedscommunityhomes.org.uk).
+
+
+### Our Rules and our Share Offer document
+
+Leeds Community Homes is a community benefit society.  [Read our Rules](/uploads/LCH-rules.pdf) (our governing document).
+
+You can also [read the share offer document](/uploads/LCH-Share-Offer-Final.pdf), which we produced for the share offer that we launched in October 2017.
 
 ### Any other questions?
 
