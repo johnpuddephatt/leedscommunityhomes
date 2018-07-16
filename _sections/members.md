@@ -8,10 +8,14 @@ image: '/uploads/section-members.svg'
 description: We’re built on the support of our members
 hidden: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque modi similique, doloribus perspiciatis alias, reprehenderit necessitatibus! Ratione nesciunt aut totam, pariatur sint iure possimus maxime quae ipsam ex. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+There are currently around 275 members of Leeds Community Homes. Together we want to change start a people powered homes revolution – and you can help us.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque modi similique, doloribus perspiciatis alias, reprehenderit necessitatibus! Ratione nesciunt aut totam, pariatur sint iure possimus maxime quae ipsam ex necessitatibus optio.
+### Become a supporter
+You can become a Leeds Community Homes supporter for just £1.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque modi similique, doloribus perspiciatis alias, reprehenderit necessitatibus! Ratione nesciunt aut totam, pariatur sint iure possimus maxime quae ipsam ex necessitatibus optio.
+<a href="mailto:info@leedscommunityhomes.org.uk" class="button">Email us to join</a>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque modi similique, doloribus perspiciatis alias, reprehenderit necessitatibus! Ratione nesciunt aut totam, pariatur sint iure possimus maxime quae ipsam ex necessitatibus optio.
+### Become a subscriber
+Add yourself to our mailing list to receive regular updates on our progress by email.
+
+<a href="http://eepurl.com/clB_pb" class="button">Join our mailing list</a>
