@@ -18,6 +18,7 @@ Supporting others to create People Powered Homes – as well as building homes o
 - [Otley Community Land Trust](https://otleyclt.wordpress.com/about/) - a group of people working on plans for community ownership for a range of assets in Otley – including permanently affordable housing.
 - An emerging student housing co-op in Leeds – part of wider student housing coop movement across the UK
 - [Yorspace](http://yorspace.org/) - a group of people developing plans for affordable, sustainable homes in York
+- [ShangriLeeds](http://www.shangrileeds.org.uk/) - working to create a co-housing community in Leeds
 
 ## Getting help
 If you are exploring setting up a community-led housing project, and would be interested in us supporting you – [please get in touch](/contact/).
