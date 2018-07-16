@@ -82,7 +82,7 @@ layout: default
     <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item" data-aos="fade-up" data-aos-ratio=".25" data-aos-delay="{{ forloop.index | minus: 1 |  times:200 }}">
       <img src="{{ site.baseurl }}{{ post.image }}" class="blog--item--icon" />
       <h3 class="blog--item--title">{{ post.title }}</h3>
-      <p class="blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 70 }} </p>
+      <p class="blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 80 }} </p>
       <div class="blog--item--date">{{ post.date | date: "%d.%m.%y " }}</div>
     </a>
     {% endfor %}
