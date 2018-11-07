@@ -1,4 +1,5 @@
 ---
+label: section
 hide_body: false
 is_partial: false
 fields:
@@ -27,3 +28,7 @@ fields:
 - type: file
   name: image
   label: Image
+pages:
+- _sections/enabler-hub.md
+- _sections/homes.md
+- _sections/members.md
