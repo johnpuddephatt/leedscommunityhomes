@@ -24,13 +24,7 @@ header_pages:
 # Build settings
 markdown: kramdown
 google_analytics: UA-75597556-1
-header_pages:
-  - _pages/enabler-hub.md
-  - _pages/members.md
-footer_pages:
-  - blog/index.md
-  - faqs/index.md
-  - contact/index.md
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
