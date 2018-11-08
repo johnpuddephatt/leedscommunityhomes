@@ -30,6 +30,6 @@ fields:
   name: image
   label: Image
 pages:
-- _pages/enabler-hub.md
-- _pages/homes.md
 - _pages/members.md
+- _pages/homes.md
+- _pages/enabler-hub.md

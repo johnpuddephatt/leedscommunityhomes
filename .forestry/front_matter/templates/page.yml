@@ -24,6 +24,6 @@ fields:
   config:
     maxSize: '1'
 pages:
-- _pages/blog.md
-- _pages/contact.md
 - _pages/faqs.md
+- _pages/contact.md
+- _pages/blog.md
