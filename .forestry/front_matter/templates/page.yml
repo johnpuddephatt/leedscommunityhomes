@@ -18,11 +18,6 @@ fields:
   label: Date
   hidden: true
   default: 2018-11-01 00:00:00 +0000
-- type: file
-  name: image
-  label: Image
-  config:
-    maxSize: '1'
 pages:
 - _pages/faqs.md
 - _pages/contact.md
