@@ -1,9 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
+date: 2016-03-23T10:20:00Z
 title: Contact
+menu: footer
 ---
 If you’d like to get in touch with Leeds Community Homes you can contact us via [Twitter](https://twitter.com/leedscommhomes), [Facebook](https://www.facebook.com/LeedsCommunityHomes/) or by sending a message through the form below and we’ll get back to you.
 

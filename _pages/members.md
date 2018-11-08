@@ -1,8 +1,6 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: section
+date: 2016-03-23T10:20:00Z
 title: Join us
 image: '/uploads/section-members.svg'
 description: We’re built on the support of our members

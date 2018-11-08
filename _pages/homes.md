@@ -1,10 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: section
+date: 2016-03-23T10:20:00Z
 title: Our homes
 image: '/uploads/section-houses.svg'
+menu: header
 description: We’re creating 16 permanently affordable homes in Leeds’ Climate Innovation District
 ---
 In January 2017 we successfully raised £360,000 through a community share offer to create our first sixteen People Powered Homes, as part of Leeds’ emerging [Climate Innovation District](https://www.citu.co.uk/citu-places/climate-innovation-district/), which is just a stone’s throw from our [Hub](/homes/).

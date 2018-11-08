@@ -1,8 +1,10 @@
 ---
 layout: project
+date: 2016-03-23T10:20:00Z
 title: Armley project
-image: "/uploads/project-armley.svg"
+image: "/uploads/project-armley-2.svg"
 description: Can you help us start creating People Powered Homes in Armley?
+menu: header
 footer: |
   ## Why are we doing this?
 

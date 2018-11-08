@@ -1,11 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: section
+date: 2016-03-23T10:20:00Z
 title: Enabler hub
 image: '/uploads/section-advocacy.svg'
 description: We support local community groups to create their own community housing
+menu: header
 ---
 Thanks to generous support from Power To Change (who also invested in our [community share offer](https://www.powertochange.org.uk/stories/leeds-community-homes/)) we’ve established a community-led housing hub in Cross Green, on the outskirts of Leeds city centre, from which we are currently piloting a support service for emerging community-led housing projects in the Leeds City Region.
 

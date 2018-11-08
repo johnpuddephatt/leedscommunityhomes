@@ -1,10 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
+date: 2016-03-23T10:20:00Z
 title: Blog
-description: We’re building 16 permanently affordable homes in Leeds’ Climate Innovation District
+description: Stay up to date
+menu: footer
 ---
 {% for post in site.posts %}
 

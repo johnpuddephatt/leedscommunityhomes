@@ -25,8 +25,8 @@ header_pages:
 markdown: kramdown
 google_analytics: UA-75597556-1
 header_pages:
-  - hub/index.md
-  - enabler/index.md
+  - _pages/enabler-hub.md
+  - _pages/members.md
 footer_pages:
   - blog/index.md
   - faqs/index.md
@@ -39,9 +39,6 @@ exclude:
   - Gemfile.lock
 
 collections:
-  sections:
+  pages:
     output: true
     permalink: /:title/index.html
-  projects:
-    output: true
-    permalink: /projects/:title/index.html
