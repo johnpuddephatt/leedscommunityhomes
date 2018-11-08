@@ -12,7 +12,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: ''
+  default: project
 - type: datetime
   name: date
   label: Date
