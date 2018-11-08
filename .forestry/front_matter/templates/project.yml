@@ -58,3 +58,5 @@ fields:
 - type: file
   name: image
   label: Image
+pages:
+- _pages/test.md
