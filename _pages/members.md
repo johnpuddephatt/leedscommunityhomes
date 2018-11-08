@@ -1,10 +1,12 @@
 ---
 layout: section
-date: 2016-03-23T10:20:00Z
+date: 2016-03-23 10:20:00 +0000
 title: Join us
-image: '/uploads/section-members.svg'
+image: "/uploads/section-members.svg"
 description: We’re built on the support of our members
 hidden: true
+published: false
+
 ---
 There are currently around 275 members of Leeds Community Homes. Together we want to change start a people powered homes revolution – and you can help us.
 
