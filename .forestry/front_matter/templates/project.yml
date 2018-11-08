@@ -33,7 +33,7 @@ fields:
     label: Date
     config:
       date_format: DD/MM/YYYY
-      required: true
+      required: false
   - name: title
     label: Title
     type: text
