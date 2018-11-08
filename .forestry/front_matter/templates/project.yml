@@ -58,5 +58,3 @@ fields:
 - type: file
   name: image
   label: Image
-pages:
-- _projects/armley.md
