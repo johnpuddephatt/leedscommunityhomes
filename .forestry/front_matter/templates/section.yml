@@ -12,7 +12,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: ''
+  default: section
 - type: textarea
   name: description
   label: Description
