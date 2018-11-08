@@ -8,6 +8,11 @@ fields:
   label: Title
   config:
     required: true
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: page
 - type: datetime
   name: date
   label: Date

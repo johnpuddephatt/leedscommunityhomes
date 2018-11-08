@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
   path: _pages
@@ -10,7 +10,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - armley-project
+  - project
   - page
   - section
 - type: jekyll-posts
