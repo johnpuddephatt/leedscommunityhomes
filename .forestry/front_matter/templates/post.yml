@@ -27,7 +27,6 @@ fields:
   label: Tags
   description: Enter each tag then press enter
 pages:
-- _posts/test.md
 - _posts/2018-04-24-Time-for-our-2nd-AGM.md
 - _posts/2018-03-30-an-update-on-our-enabler-service.md
 - _posts/2017-12-18-announcing-our-new-hub.md
