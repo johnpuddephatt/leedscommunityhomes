@@ -6,19 +6,17 @@ image: ''
 tags: []
 
 ---
-**Vacancy: Administrator and Trainee Community Led Housing Advisor**
+**Leeds Community Homes is recruiting an Administrator & Trainee Community-Led Housing Advisor. This is an exciting new role within the organisation which will involve on-the-job training to become an accredited community-led housing advisor.**
 
-**Leeds Community Homes (LCH)**
+**Deadline for applications:** noon on Friday 21st December 2018
 
-Deadline for applications: noon on Friday 21st December 2018
-
-Please email a covering letter (1 side of A4) and a CV (2 sides of A4) to: info@leedscommunityhomes.org.uk
+**To apply:** Please email a covering letter (1 side of A4) and a CV (2 sides of A4) to: info@leedscommunityhomes.org.uk
 
 If you have any access issues please call 07788 994546
 
 ## About Leeds Community Homes
 
-**Our vision**
+### Our vision
 
 That Leeds is a city where it feels realistic for citizens to work together to create environmentally sound homes which are affordable in perpetuity and which are located in vibrant and sustainable communities.
 
