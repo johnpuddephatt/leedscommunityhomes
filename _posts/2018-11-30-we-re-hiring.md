@@ -1,5 +1,5 @@
 ---
-title: We're hiring
+title: We’re hiring: Trainee Community-Led Housing Advisor
 date: 2018-11-30 14:44:37 +0000
 layout: post
 image: "/uploads/2018/06/18/Blog Discussion.png"
@@ -8,13 +8,13 @@ tags:
 - vacancy
 
 ---
-**Leeds Community Homes is recruiting an Administrator & Trainee Community-Led Housing Advisor. This is an exciting new role within the organisation which will involve on-the-job training to become an accredited community-led housing advisor.**
+**Leeds Community Homes are recruiting for an <u>Administrator & Trainee Community-Led Housing Advisor</u>. This is an exciting new role within the organisation which will involve on-the-job training to become an accredited community-led housing advisor.**
 
 **Deadline for applications:** noon on Friday 21st December 2018
 
-**To apply:** Please email a covering letter (1 side of A4) and a CV (2 sides of A4) to: info@leedscommunityhomes.org.uk
+**To apply:** Please email a covering letter (1 side of A4) and a CV (2 sides of A4) to: [info@leedscommunityhomes.org.uk](mailto:info@leedscommunityhomes.org.uk).
 
-If you have any access issues please call 07788 994546
+If you have any access issues please call 07788 994546.
 
 ## About Leeds Community Homes
 
@@ -50,23 +50,32 @@ As a Community Land Trust, we create more affordable, sustainable housing, by bu
 
 ### Terms and conditions
 
-Term: Initially a 12 month fixed term contract
+**Term**
+- Initially a 12 month fixed term contract
 
-Hours: Negotiable. 20-25 hours per week, flexible working is possible.
+**Hours**
+- Negotiable. 20-25 hours per week, flexible working is possible.
 
-Salary: Example £17,500 for 24.5 hours (£25,000 is the full time rate)
+**Salary**
+- Example £17,500 for 24.5 hours (£25,000 is the full time rate)
 
-Holiday: 25 days per annum plus bank holidays _pro rata_, increasing by a day a year to a maximum of 30 days
+**Holiday**
+- 25 days per annum plus bank holidays _pro rata_, increasing by a day a year to a maximum of 30 days
 
-Responsible to: CLT Director
+**Responsible to**
+- CLT Director
 
-Responsible for: no direct reports
+**Responsible for**
+- no direct reports
 
-Location: Predominantly the LCH office in Cross Green, Leeds, with flexibility to work from home/remotely occasionally if agreed by line manager. Some travel around the region and nationally.
+**Location**
+- Predominantly the LCH office in Cross Green, Leeds, with flexibility to work from home/remotely occasionally if agreed by line manager. Some travel around the region and nationally.
 
-Probationary period: 3 months
+**Probationary period**
+- 3 months
 
-Pension and other conditions/benefits: statutory levels, e.g. no pension contributions from LCH until 6 months employment
+**Pension and other conditions/benefits**
+- Statutory levels, e.g. no pension contributions from LCH until 6 months employment
 
 ### Necessary Skills
 

@@ -20,16 +20,61 @@
 }
 
 .post-title {
-  font-size: modular-scale(6);
+  font-size: modular-scale(5);
 }
 
 .post-content {
-  padding-top: 2 * $base-spacing;
-  padding-bottom: 4 * $base-spacing;
+  padding-top: $base-spacing;
+  padding-bottom: 2 * $base-spacing;
   font-size: modular-scale(1);
+  > *:first-child {
+    font-size: modular-scale(1);
+    margin-bottom: 1.5 * $base-spacing;
+  }
   h2,h3,h4,h5,h6 {
-    margin-top: 2 * $base-spacing;
-    margin-bottom: 1 * $base-spacing;
+    margin-top: $base-spacing;
+  }
+  u {
+    text-decoration: none;
+    text-shadow: -2px -2px #fff, -2px 2px #fff, 2px -2px #fff, 2px 2px #fff;
+    -webkit-box-shadow: inset 0 0 #fff, inset 0 -0.2rem transparentize($yellow,.5);
+    box-shadow: inset 0 0 #fff, inset 0 -0.2rem transparentize($yellow,.5);
+
+  }
+  h2 {
+    margin-top: 1.5 * $base-spacing;
+    margin-bottom: $base-spacing;
+    font-size: modular-scale(2);
+    text-shadow: -2px -2px #fff, -2px 2px #fff, 2px -2px #fff, 2px 2px #fff;
+    -webkit-box-shadow: inset 0 0 #fff, inset 0 -0.3rem transparentize($yellow,.5);
+    box-shadow: inset 0 0 #fff, inset 0 -0.3rem transparentize($yellow,.5);
+    display: inline-block;
+  }
+  h3 {
+    font-size: modular-scale(1);
+    margin-bottom: $base-spacing;
+  }
+  ul {
+    margin-bottom: 1.5 * $base-spacing;
+  }
+  li {
+    margin-left: $base-spacing;
+    font-size: modular-scale(0);
+    margin-bottom: $small-spacing/2;
+    &::before {
+      content: '';
+      display: block;
+      float: left;
+      width: $base-spacing;
+      height: $base-spacing;
+      margin-top: .3em;
+      padding: .3em;
+      margin-left: -$base-spacing;
+      margin-right: 0;
+      background-color: $yellow;
+      background-clip: content-box;
+    }
+
   }
 }
 
@@ -61,6 +106,7 @@
 .post-tags {
   display: flex;
   margin-top: $small-spacing;
+  margin-bottom: 3 * $base-spacing;
   .tag {
     border-radius: 3em;
     padding: $small-spacing/2 $base-spacing;

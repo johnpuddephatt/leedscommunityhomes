@@ -30,6 +30,9 @@
     border-bottom: .15em solid white;
     color: white;
   }
+  &:hover {
+    color: $action-color;
+  }
 }
 
 
