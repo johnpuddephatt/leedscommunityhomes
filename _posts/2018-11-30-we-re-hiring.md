@@ -1,5 +1,5 @@
 ---
-title: "We’re hiring: Trainee Community-Led Housing Advisor"
+title: "We’re hiring! Exciting new community-led housing role"
 date: 2018-11-30 14:44:37 +0000
 layout: post
 image: "/uploads/2018/06/18/Blog Discussion.png"
@@ -8,7 +8,7 @@ tags:
 - vacancy
 
 ---
-Leeds Community Homes are recruiting for an <u>Administrator & Trainee Community-Led Housing Advisor</u>. This is an exciting new role within the organisation which will involve on-the-job training to become an accredited community-led housing advisor.
+Leeds Community Homes are recruiting for an <u>Administrator & Trainee Community-Led Housing Advisor</u>. This is a new role within the organisation which will combine administrative responsibilities with on-the-job training to become an accredited community-led housing advisor.
 
 **Deadline for applications:** noon on Friday 21st December 2018
 
