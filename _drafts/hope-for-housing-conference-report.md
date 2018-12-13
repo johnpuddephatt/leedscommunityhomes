@@ -4,6 +4,10 @@ layout: ''
 date: 2018-12-13 00:00:00 +0000
 image: "/uploads/2018/06/18/Blog University.png"
 tags: []
+description: On Monday 5 November David Mullins, Emeritus Professor of Housing Policy
+  presented a 36 page report of the July Hope for Housing Conference
+updates: []
+footer: ''
 
 ---
 ## **‘Look out Vienna, Here Come the Brummies’**
