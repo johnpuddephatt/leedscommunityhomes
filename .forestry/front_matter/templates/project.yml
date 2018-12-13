@@ -59,4 +59,5 @@ fields:
   name: image
   label: Image
 pages:
+- _posts/hope-for-housing-conference-report.md
 - _pages/armley.md
