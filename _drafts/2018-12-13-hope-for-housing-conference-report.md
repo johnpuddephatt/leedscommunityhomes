@@ -1,6 +1,6 @@
 ---
 title: Hope for Housing conference report
-layout: Post
+layout: post
 date: 2018-12-13 00:00:00 +0000
 image: "/uploads/2018/06/18/Blog University.png"
 tags: []
