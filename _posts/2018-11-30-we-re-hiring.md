@@ -125,9 +125,9 @@ As a Community Land Trust, we create more affordable, sustainable housing, by bu
 **Events**
 
 * Events management inc general LCH events, and enabler program events including admin relating to supporting groups.  Eventbrite, communications, printed materials, room hire, catering, resources etc
-* AGM related admin
+* AGM related administration
 * Coordinating meetings with external stakeholders
-* Arrange Board Meetings dates, times, location, catering, comms, printed materials and resources.  Take and write up minutes.
+* Arrange Board Meetings dates, times, location, catering, communications, printed materials and resources.  Take and write up minutes.
 * Assist in event organisation and running in any other ways required
 
 **PR, marketing, communications, member engagement**
