@@ -2,7 +2,7 @@
 layout: post
 title: Housing for artists in Leeds?
 date: 2019-02-01 00:00:00 +0000
-image: "/uploads/2018/06/18/Blog Houses.png"
+image: "/uploads/2018/06/18/Blog House.png"
 tags: []
 
 ---
