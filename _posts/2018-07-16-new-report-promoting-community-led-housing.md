@@ -1,8 +1,13 @@
 ---
-title: "Report: Promoting Community-Led Housing"
+title: 'Report: Promoting Community-Led Housing'
 image: "/uploads/2018/06/18/Blog%20Houses.png"
-tags: news
-excerpt: Our new report reviews the benefits of community-led housing in Leeds and beyond
+tags:
+- news
+excerpt: Our new report reviews the benefits of community-led housing in Leeds and
+  beyond
+layout: ''
+date: 2017-08-31 23:00:00 +0000
+
 ---
 This report brings together evidence of the benefits and positive outcomes achieved by community-led housing projects in Leeds and elsewhere in the UK. This aims to demonstrate the value of investment in community-led housing.
 
