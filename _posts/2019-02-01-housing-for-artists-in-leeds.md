@@ -2,7 +2,7 @@
 layout: post
 title: Housing for artists in Leeds?
 date: 2019-02-01 00:00:00 +0000
-image: "/uploads/2019/02/01/East-Street-Arts-Artist-Housing-Peg-Alexander1.jpg"
+image: "/uploads/2018/06/18/Blog Houses.png"
 tags: []
 
 ---
