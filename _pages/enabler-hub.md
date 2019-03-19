@@ -21,6 +21,8 @@ The first step is to complete our online health check [support questionnaire](ht
 
 Your answers identify the areas you’ll need to work on and will help us see whether or not we can help you. We may also signpost you to other potential sources of help and support.
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdG5zIuLRihBdx0qpyis0tDBmBt4ekhKLQ3pC6Y6KTaokCg5A/viewform?usp=sf_link" class="button">Complete the support questionnaire</a>
+
 #### Step 2:
 
 The next stage will be for your group to get really clear and ready about what you want to achieve and what you want to do. This will involve having a clear vision for your scheme, knowing what governance arrangements, legal and ownership structure you want, and good group development.
