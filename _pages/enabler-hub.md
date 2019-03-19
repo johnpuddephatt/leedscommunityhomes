@@ -35,6 +35,6 @@ In stage 3, we will work with some groups on their actual brief or plan, right u
 
 If we are able to help you, depending on your group and proposal we may be able to provide this support free of charge or help you to apply for funding to pay for it. Or, we will talk to you about doing this as fee paying consultancy work.
 
-### Who provides the support?
+### **Who provides the support?**
 
 Support is either provided by LCH staff or a group of carefully selected, specialist associates.
