@@ -11,13 +11,13 @@ menu: header
 
 We are an Enabler Hub which means we work with community and voluntary groups, community land trusts, local authorities, developers, housing associations and more to create new community led housing schemes.
 
-The areas we can provide support and help are broad - from helping you form your groups and work out what kind of community led housing you would like to develop, through helping with design and planning permission, to project managing the build.
+The areas we can provide support and help are broad - from helping you form your group and work out what kind of community led housing you would like to develop, through helping with design and planning permission, to project managing the build.
 
 ### **How does our support work?**
 
 #### Step 1:
 
-The first step is to complete our online [support questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSdG5zIuLRihBdx0qpyis0tDBmBt4ekhKLQ3pC6Y6KTaokCg5A/viewform?usp=sf_link "support questionnaire"). This will help us to see where you are up to and what support and help you might need. 
+The first step is to complete our online health check [support questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSdG5zIuLRihBdx0qpyis0tDBmBt4ekhKLQ3pC6Y6KTaokCg5A/viewform?usp=sf_link "support questionnaire"). This will help us to see where you are up to and what support and help you might need.
 
 Your answers identify the areas you’ll need to work on and will help us see whether or not we can help you. We may also signpost you to other potential sources of help and support.
 
@@ -29,7 +29,7 @@ We have a check list of all the things you need to cover at this stage, and we m
 
 #### Step 3:
 
-In stage 3, we will work with some groups on their actual brief or plan, right up to full business plan, design, financing and planning permission. Our support at this stage can include direct help and advice, writing documents and plans, working on costings and the practical aspects of your brief, group work, training and workshops, project management.
+In stage 3, we can work with some groups on their actual brief or plan, right up to full business plan, design, financing and planning permission. Our support at this stage can include direct help and advice, writing documents and plans, working on costings and the practical aspects of your brief, group work, training and workshops, project management.
 
 ### **Do we need to pay for your support?**
 
