@@ -79,15 +79,36 @@
     margin-top: 2 * $base-spacing;
     margin-bottom: 1 * $base-spacing;
   }
+  h3 {
+    font-size: modular-scale(1);
+    margin-bottom: $base-spacing;
+  }
+  h4 {
+    font-size: modular-scale(0);
+    margin-bottom: $base-spacing;
+  }
   ul, ol {
     margin: 2 * $base-spacing 0;
     font-size: modular-scale(-1);
   }
-  li {
-    margin-bottom: $small-spacing;
-    list-style-type: square;
-    list-style-position: outside;
-    margin-left: $base-spacing;
+  ul {
+    li {
+      margin-left: $base-spacing;
+      font-size: modular-scale(0);
+      margin-bottom: $small-spacing/2;
+      &::before {
+        content: '';
+        display: block;
+        float: left;
+        width: $base-spacing;
+        height: $base-spacing;
+        margin-top: .3em;
+        padding: .3em;
+        margin-left: -$base-spacing;
+        margin-right: 0;
+        background-color: $yellow;
+        background-clip: content-box;
+      }
+    }
   }
-
 }
