@@ -1,7 +1,6 @@
 ---
 label: Section
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -31,5 +30,5 @@ fields:
   label: Image
 pages:
 - _pages/members.md
-- _pages/enabler-hub.md
 - _pages/homes.md
+- _pages/enabler-hub.md

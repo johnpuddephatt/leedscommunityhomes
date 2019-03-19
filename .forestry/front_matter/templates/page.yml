@@ -1,7 +1,6 @@
 ---
 label: Page
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -20,5 +19,5 @@ fields:
   default: 2018-11-01 00:00:00 +0000
 pages:
 - _pages/faqs.md
-- _pages/blog.md
 - _pages/contact.md
+- _pages/blog.md
