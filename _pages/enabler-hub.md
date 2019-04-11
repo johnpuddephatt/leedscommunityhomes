@@ -5,7 +5,6 @@ title: Get support
 image: "/uploads/section-advocacy.svg"
 description: We support local community groups to create their own community housing
 menu: header
-published: false
 
 ---
 **It can be more than a little daunting starting your own community led housing scheme. At Leeds Community Homes we help you do just that.**
