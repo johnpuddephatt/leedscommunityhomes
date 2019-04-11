@@ -7,7 +7,7 @@ description: We support local community groups to create their own community hou
 menu: header
 
 ---
-**It can be more than a little daunting starting your own community led housing scheme. At Leeds Community Homes we help groups do just that.**
+**It can be more than a little daunting starting your own community led housing scheme. At Leeds Community Homes we help you do just that.**
 
 We are an Enabler Hub which means we work with community and voluntary groups, community land trusts, local authorities, developers, housing associations and more to create new community led housing schemes.
 
@@ -49,7 +49,7 @@ There's more info about each of these stages and what support and help we might 
 
 ### Do we need to pay for your support?
 
-If we are able to help you, depending on your group and proposal we may be able to provide this support free of charge or help you to apply for funding to pay for it. Or, we will talk to you about doing this as fee paying consultancy work.
+Depending on your group and proposal, if we work with you we may be able to provide this support free of charge, or we may help you apply for funding to pay for it. Or, we will talk to you about doing this as fee paying consultancy work.
 
 ### Who provides the support?
 
