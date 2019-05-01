@@ -24,7 +24,7 @@ fields:
   config:
     date_format: DD/MM/YYYY
     required: true
-  default: 2016-03-23 10:20:00 +0000
+  default: '2016-03-23T10:20:00.000+00:00'
 - type: file
   name: image
   label: Image

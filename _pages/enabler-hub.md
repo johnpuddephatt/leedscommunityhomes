@@ -1,6 +1,6 @@
 ---
 layout: section
-date: 2016-03-23 10:20:00 +0000
+date: 2016-03-23T10:20:00.000+00:00
 title: Get support
 image: "/uploads/section-advocacy.svg"
 description: We support local community groups to create their own community housing
@@ -17,19 +17,19 @@ The areas we can provide support and help are broad - from helping you form your
 
 #### Step 1 : Health Check
 
-The first step is to complete our online [Health Check Support Questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSdG5zIuLRihBdx0qpyis0tDBmBt4ekhKLQ3pC6Y6KTaokCg5A/viewform?usp=sf_link). This will help us to see where you are up to and what support and help you might need.
+The first step is to complete our online <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdG5zIuLRihBdx0qpyis0tDBmBt4ekhKLQ3pC6Y6KTaokCg5A/viewform?usp=sf_link">Health Check Support Questionnaire</a>. This will help us to see where you are up to and what support and help you might need.
 
 Your answers identify the areas you’ll need to work on and will help us see whether or not we can help you. We may also signpost you to other potential sources of help and support.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdG5zIuLRihBdx0qpyis0tDBmBt4ekhKLQ3pC6Y6KTaokCg5A/viewform?usp=sf_link" class="button">Complete the Health Check questionnaire</a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdG5zIuLRihBdx0qpyis0tDBmBt4ekhKLQ3pC6Y6KTaokCg5A/viewform?usp=sf_link" class="button">Complete the Health Check questionnaire</a>
 
 #### Step 2 : Get Clear and Ready
 
 The next stage will be for your group to get really clear and ready about what you want to achieve and what you want to do. This will involve having a clear vision for your scheme, knowing what governance arrangements, legal and ownership structure you want, and good group development.
 
-Our [Get Clear and Ready Checklist](/uploads/Get clear and ready Checklist.pdf "Get clear and ready Checklist.pdf") goes through all the things you need to cover at this stage. We may be able to help. To start there's a foundation workshop. We can also link you to or directly help you with other specific topic workshops and access to loads of resources. We will identify and help groups we are working with apply for possible sources of funding.
+Our <a target="_blank" href="/uploads/Get clear and ready Checklist.pdf">Get clear and ready Checklist</a> goes through all the things you need to cover at this stage. We may be able to help. To start there's a foundation workshop. We can also link you to or directly help you with other specific topic workshops and access to loads of resources. We will identify and help groups we are working with apply for possible sources of funding.
 
-<a href="/uploads/Get clear and ready Checklist.pdf" class="button">Get Clear and Ready Checklist</a>
+<a target="_blank" href="/uploads/Get clear and ready Checklist.pdf" class="button">Get Clear and Ready Checklist</a>
 
 #### Step 3 : Develop the Brief
 
@@ -43,9 +43,9 @@ This is the actual building stage.
 
 We can also provide ongoing support and services once a scheme if built.
 
-There's more info about each of these stages and what support and help we might be able to provide in our [Support Journey Handout](/uploads/Support Journey Handout.pdf "Support Journey Handout.pdf").
+There's more info about each of these stages and what support and help we might be able to provide in our <a target="_blank" href="/uploads/Support Journey Handout.pdf">Support Journey Handout</a>.
 
-<a href="/uploads/Support Journey Handout.pdf" class="button">Get our Support Journey Guide</a>
+<a target="_blank" href="/uploads/Support Journey Handout.pdf" class="button">Get our Support Journey Guide</a>
 
 ### Do we need to pay for your support?
 
