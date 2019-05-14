@@ -18,6 +18,6 @@ fields:
   hidden: true
   default: '2018-11-01T00:00:00.000+00:00'
 pages:
-- _pages/faqs.md
 - _pages/contact.md
 - _pages/blog.md
+- _pages/faqs.md
