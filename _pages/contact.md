@@ -4,7 +4,7 @@ date: 2016-03-23T10:20:00Z
 title: Contact
 menu: footer
 ---
-If you’d like to get in touch with Leeds Community Homes you can contact us via [Twitter](https://twitter.com/leedscommhomes), [Facebook](https://www.facebook.com/LeedsCommunityHomes/) or by sending a message through the form below and we’ll get back to you.
+If you’d like to get in touch with Leeds Community Homes you can call us on <a href="tel:0113 450 8905">0113 450 8905</a>, follow us on [Twitter](https://twitter.com/leedscommhomes) or [Facebook](https://www.facebook.com/LeedsCommunityHomes/), or send us a message through the form below and we’ll get back to you.
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <form method="POST" action="https://form.letsdance.agency/57nQPDw4" class="contact-form">
