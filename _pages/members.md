@@ -1,6 +1,7 @@
 ---
 layout: section
-date: 2016-03-23 10:20:00 +0000
+date: 2016-03-23T11:20:00Z
+menu: header
 title: Join us
 image: "/uploads/section-members.svg"
 description: We’re built on the support of our members

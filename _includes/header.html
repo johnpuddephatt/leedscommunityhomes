@@ -10,12 +10,16 @@
         </label>
 
         <div class="trigger">
-          {% for page in site.pages %}
-            {% if page.menu contains 'header' %}
-              <a class="page-link{% if page.title == 'Join us' %} button{% endif %}" href="{{ page.url | replace: 'index.html', '' }}">{{ page.title | escape }}</a>
-            {% endif %}
+          {% for path in site.data.navigation.header_pages %}
+          {% assign last = forloop.last %}
+            {% for page in site.pages %}
+              {% if page.path == path  %}
+                <a class="page-link {% if last %}button{% endif %}" href="{{ page.url | relative_url | replace: 'index.html', '' }}">{{ page.title | escape }}</a>
+              {% endif %}
+            {% endfor %}
           {% endfor %}
         </div>
+
       </nav>
   </div>
 </header>

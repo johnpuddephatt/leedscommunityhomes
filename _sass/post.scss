@@ -110,6 +110,7 @@
 .post-tags {
   display: flex;
   margin-top: $small-spacing;
+  list-style-type: none;
   .tag {
     border-radius: 3em;
     padding: $small-spacing/2 $base-spacing;
