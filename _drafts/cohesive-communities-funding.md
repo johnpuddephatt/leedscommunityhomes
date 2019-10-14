@@ -10,7 +10,7 @@ tags:
 - inclusivity
 
 ---
-Leeds Community Homes is delighted to announce that we are one of the sixteen community land trusts that have been awarded a share of £329,000 to strengthen their membership base and be champions of inclusivity, equality and diversity!
+Leeds Community Homes is delighted to announce that we are one of the sixteen community land trusts that have been awarded a share of the National CLT Network's Cohesive Communities funding to strengthen their membership base and be champions of inclusivity, equality and diversity!
 
 This flexible funding will help Leeds Community Homes to engage with more people within the Leeds community to ensure plans genuinely reflect the needs and voices of local people.
 
