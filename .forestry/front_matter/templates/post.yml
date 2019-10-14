@@ -26,10 +26,10 @@ fields:
   label: Tags
   description: Enter each tag then press enter
 pages:
+- _posts/2019-02-01-housing-for-artists-in-leeds.md
+- _posts/2018-07-16-new-report-promoting-community-led-housing.md
+- _posts/2018-12-13-hope-for-housing-conference-report.md
 - _posts/2018-05-08-people-powered-homes-in-armley.md
 - _posts/2017-12-18-announcing-our-new-hub.md
-- _posts/2018-03-30-an-update-on-our-enabler-service.md
 - _posts/2018-04-24-Time-for-our-2nd-AGM.md
-- _posts/2018-12-13-hope-for-housing-conference-report.md
-- _posts/2018-07-16-new-report-promoting-community-led-housing.md
-- _posts/2019-02-01-housing-for-artists-in-leeds.md
+- _posts/2018-03-30-an-update-on-our-enabler-service.md
