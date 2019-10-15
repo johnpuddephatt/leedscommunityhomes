@@ -20,6 +20,4 @@ We will be working with Community leader, Claude Hendrickson, who led Frontline 
 
 We're looking forward to getting started in the coming weeks...
 
-For further details on the fund and the other 16 Cohesive Communities who were awarded the fund, please visit the National Community Land Trust Network by clicking here:
-
-[http://www.communitylandtrusts.org.uk/article/2019/9/26/successful-cohesive-communities-fund-applicants-announced](http://www.communitylandtrusts.org.uk/article/2019/9/26/successful-cohesive-communities-fund-applicants-announced "http://www.communitylandtrusts.org.uk/article/2019/9/26/successful-cohesive-communities-fund-applicants-announced")
+For further details on the fund and the other 16 Cohesive Communities who were awarded the fund, please [visit the National Community Land Trust Network](http://www.communitylandtrusts.org.uk/article/2019/9/26/successful-cohesive-communities-fund-applicants-announced).
