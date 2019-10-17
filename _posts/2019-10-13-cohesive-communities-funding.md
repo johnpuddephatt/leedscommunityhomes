@@ -14,9 +14,7 @@ Leeds Community Homes is delighted to announce that we are one of the sixteen co
 
 This flexible funding will help Leeds Community Homes to engage with more people within the Leeds community to ensure plans genuinely reflect the needs and voices of local people.
 
-We will be working with Community leader, Claude Hendrickson, who led Frontline Self Build in Leeds - a self build project where he and 12 other unemployed men built a street from scratch, learning the skills along the way. Claude is hugely experienced in community and self build projects and was a founder member of the national [Community Self Build Agency](https://www.communityselfbuildagency.org.uk/) (CSBA).
-
-![](/uploads/2019/10/14/D3O9_RBW4AIZmqA.jpg)
+![](/uploads/2019/10/14/D3O9_RBW4AIZmqA.jpg)We will be working with Community leader, Claude Hendrickson, who led Frontline Self Build in Leeds - a self build project where he and 12 other unemployed men built a street from scratch, learning the skills along the way. Claude is hugely experienced in community and self build projects and was a founder member of the national [Community Self Build Agency](https://www.communityselfbuildagency.org.uk/) (CSBA).
 
 We're looking forward to getting started in the coming weeks...
 
