@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Temporary Office Support help needed ......
+title: Vacency - Temporary Office Support help needed ......
 date: 2019-11-01 00:00:00 +0000
 image: "/uploads/2018/06/18/Blog Hub.png"
 tags: []
 
 ---
-## **(Admin / Finance / Comms / Other stuff)**
+## **Admin / Finance / Comms / Other stuff** 
 
 Leeds Community Homes needs some additional help and support in the office from November to January 2020. The jobs and tasks will be varied, though mainly admin. We need someone who can pick up a variety of jobs and tasks and get going quickly. You don’t need to know about community led housing but it would help. Mainly, you need to be flexible, good at admin, happy to pick up jobs that need doing, able to work on your own and just get on with things. And share our commitment to a more community led and cooperative world.
 
