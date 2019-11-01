@@ -2,7 +2,7 @@
 layout: post
 title: Vacancy - Temporary Office Support help needed ......
 date: 2019-11-01 00:00:00 +0000
-image: "/uploads/2018/06/18/Blog Hub.png"
+image: "/uploads/2019/11/01/IMG_3423.jpg"
 tags: []
 
 ---
