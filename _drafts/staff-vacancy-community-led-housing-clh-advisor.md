@@ -6,21 +6,29 @@ image: "/uploads/2019/11/01/IMG_3423.jpg"
 tags: []
 
 ---
-Leeds Community Homes is growing - and we want to recruit a new Community Led Housing (CLH) Advisor to join out team. 
+**Leeds Community Homes is growing - and we want to recruit a new Community Led Housing (CLH) Advisor to join out team.**
 
-About the job .......
+#### About the job .......
 
-This post will be a really key member of our team. Our Community Led Housing Advisor will work with budding and more established groups, CLTs, housing providers and partners to help them to develop new community led housing solutions, such as CLTs, co-housing, cooperatives and self build schemes. 
+This post will be a really key member of our team. Our Community Led Housing Advisor will work with budding and more established groups, CLTs, housing providers and partners to help them to develop new community led housing solutions, such as CLTs, co-housing, cooperatives and self build schemes.
 
-By helping groups to move towards their ambitions to create the homes that their communities need you'll be making a difference to communities and individuals throughout the Leeds City Region and beyond. 
+By helping groups to move towards their ambitions to create the homes that their communities need you'll be making a difference to communities and individuals throughout the Leeds City Region and beyond.
 
-There's loads more information about [community led housing]() here. 
+There's loads more information about [community led housing]() here.
+
+You can download a full [job description]() here. 
+
+About you ......
+
+We are looking for someone who has the skills outlined in the job description. 
+
+If you are an accredited Community Led Housing Advisor 
 
 **What’s it like working at Leeds Community Homes…….?**
 
 Leeds Community Homes currently has 3 members of staff - who are often out and about. We also have some associates working from the office at different times. When all 3 are in its busy, but at other times it can be quiet. The office is nice and warm, the building is home to LEDA Architects and shared with other organisations including Zero Waste Leeds, the Empty Homes Doctor and Angels.
 
-Leeds Community Homes is a great place to work. 
+Leeds Community Homes is a great place to work.
 
 Our values and ethics are really important to us and its essential that everyone who works here shares those.
 
