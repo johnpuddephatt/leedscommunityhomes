@@ -26,8 +26,6 @@ You will need to have a good understanding of community led housing, ideally hav
 
 You'll also need to have the skills listed in the [Job Description](https://drive.google.com/file/d/1YexPxCco9lcswQxgCjupVnjvcW-8L_fr/view?usp=sharing). 
 
-###### 
-
 #### Terms and conditions .......
 
 **Term**: Initially a 12 month fixed term contract
