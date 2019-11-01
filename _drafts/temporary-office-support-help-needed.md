@@ -14,7 +14,7 @@ Leeds Community Homes needs some additional help and support in the office from 
 
 #### **To apply........**
 
-###### If you’re interested please email Steve Hoey steve@leedscommunityhomes.org.uk asap and **by lunchtime on 8th November** with your CV, your availability.
+###### If you’re interested please email Steve Hoey steve@leedscommunityhomes.org.uk asap and **by noon on 8th November** with your CV and your availability.
 
 #### **The tasks we need covered……..**
 
@@ -26,7 +26,7 @@ The actual tasks will be worked out on an ongoing basis based on the number of d
 
 #### **Where is the job?.........**
 
-Based in LCH’s office in Cross Green - a 10 minute cycle ride from talk or a half hour walk. There’s parking outside the building. The job will mainly be office based but can at times be worked remotely by agreement.
+Based in LCH’s office in Cross Green - a 5-10 minute cycle ride from town or 15/20 mins walk from the Minster. There’s parking outside the building. The job will mainly be office based but can at times be worked remotely by agreement.
 
 #### **How long, money and all that…….**
 
@@ -34,7 +34,7 @@ We need someone to start working for us as soon as possible. In an ideal world t
 
 Money-wise, if this was a full time post it would be paid £25,000 a year. We can offer this as an employee contract at that salary pro-rata, or are happy to talk about a freelance daily rate.
 
-Day to day you’ll be working to the CLT Director Steve Hoey and with our other current staff - Jimm Reed and James Newton. But also working with our voluntary Board of Directors and other associates who will be working either in the office or remotely from time to time.
+Day to day you’ll be working to the CLT Director Steve Hoey and with our other current staff - Jimm Reed and James Newton. We're a growing team and will be recruiting for 3 new posts during this time. You'd also be working with our voluntary Board of Directors and other associates who will be working either in the office or remotely from time to time. 
 
 #### **About you……..**
 
@@ -53,7 +53,7 @@ Firstly we need you to be happy to be doing mainly admin work, picking up all so
 
 #### **What’s it like working at Leeds Community Homes…….?**
 
-Leeds Community Homes currently has 3 members of staff - who are often out and about. We also have some associates working from the office at different times. When all 3 are in its busy, but at other times it can be quiet. The office is nice and warm, the building shared with other organisations including Zero Waste Leeds and the Empty Homes Doctor.
+Leeds Community Homes currently has 3 members of staff - who are often out and about. We also have some associates working from the office at different times. When all 3 are in its busy, but at other times it can be quiet. The office is nice and warm, the building is home to LEDA Architects and shared with other organisations including Zero Waste Leeds, the Empty Homes Doctor and Angels.
 
 Our values and ethics are really important to us and its essential that everyone who works here shares those.
 
