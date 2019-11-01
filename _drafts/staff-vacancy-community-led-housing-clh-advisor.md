@@ -18,11 +18,9 @@ There's loads more information about [community led housing]() here.
 
 Download the full [Job Description ](https://drive.google.com/file/d/1YexPxCco9lcswQxgCjupVnjvcW-8L_fr/view?usp=sharing)here.
 
-###### 
-
 #### About you .......
 
-You will share our values and commitment to a more community led and cooperative world with a good understanding of the needs of groups and voluntary activity. 
+You will share our values and commitment to a more community led and cooperative world. You'll have a good understanding of the needs of groups and voluntary activity and previous expereince of working with voluntary groups. 
 
 You will need to have a good understanding of community led housing, ideally having previously worked within or alongside a community led housing scheme or schemes. You will need to be aware of the different types of community led housing and the five different stages and the needs of groups and schemes at each stage. It will be an advantage to be an accredited Community Led Housing Advisor or have undertaken the national course. Also, previous expereince of working in the construction industry or social housing sector will be an advantage. 
 
