@@ -40,7 +40,7 @@ You'll also need to have the skills listed in the [Job Description](https://driv
 
 #### **Working at Leeds Community Homes** .......
 
-Leeds Community Homes currently has 3 members of staff: Steve Hoey, CLT Director; Jimm Reed, Development Director; James Newton, Administrator and Advisor. NEW JOB TITLE
+Leeds Community Homes currently has 3 members of staff: Steve Hoey, CLT Director; Jimm Reed, Development Director; James Newton, Administrator and Advisor. **NEW JOB TITLE**
 
 In early 2020 our staff team will grow to 6 staff members. We also have associates working from the office at different times The organisation is overseen by a voluntary Board of Directors. 
 
