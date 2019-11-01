@@ -6,7 +6,9 @@ image: "/uploads/2019/11/01/IMG_3423.jpg"
 tags: []
 
 ---
-**Leeds Community Homes is growing - and we want to recruit a new Community Led Housing Advisor to join out team.**
+**Leeds Community Homes is growing - and we want to recruit a new Community Led Housing Advisor to join our team.**
+
+###### 
 
 #### About the job .......
 
@@ -16,20 +18,44 @@ By helping groups to move towards their ambitions to create the homes that their
 
 There's loads more information about [community led housing]() here.
 
-Download the full [Job Description ](https://drive.google.com/file/d/1YexPxCco9lcswQxgCjupVnjvcW-8L_fr/view?usp=sharing)here. 
+Download the full [Job Description ](https://drive.google.com/file/d/1YexPxCco9lcswQxgCjupVnjvcW-8L_fr/view?usp=sharing)here.
 
-About you .....
+###### 
+
+#### About you .......
+
+You will share our values and commitment to a more community led and cooperative world with a good understanding of the needs of groups and voluntary activity. 
+
+You will need to have a good understanding of community led housing, ideally having previously worked within or alongside a community led housing scheme or schemes. You will need to be aware of the different types of community led housing and the five different stages and the needs of groups and schemes at each stage. It will be an advantage to be an accredited Community Led Housing Advisor or have undertaken the national course. Also, previous expereince of working in the construction industry or social housing sector will be an advantage. 
+
+You'll also need to have the skills listed in the [Job Description](https://drive.google.com/file/d/1YexPxCco9lcswQxgCjupVnjvcW-8L_fr/view?usp=sharing). 
+
+###### 
+
+#### Terms and conditions .......
+
+**Term**: Initially a 12 month fixed term contract
+
+**Hours**: 4 days per week, flexible working is possible.
+
+**Salary**: £28,000 PA
+
+**Holiday**: 25 days per annum plus bank holidays _pro rata_, increasing by a day a year to a maximum of 30 days
+
+**Responsible to:** CLT Director
+
+**Responsible for:** no direct reports
+
+**Location**: Predominantly the LCH office in Cross Green, Leeds, with flexibility to work from home/remotely occasionally if agreed by line manager. Some travel around the region and nationally.
+
+**Probationary period:** 3 months
+
+**Pension and other conditions/benefits:** statutory levels, e.g. no pension contributions from LCH until 6 months employment
 
 **What’s it like working at Leeds Community Homes…….?**
 
-Leeds Community Homes currently has 3 members of staff - who are often out and about. We also have some associates working from the office at different times. When all 3 are in its busy, but at other times it can be quiet. The office is nice and warm, the building is home to LEDA Architects and shared with other organisations including Zero Waste Leeds, the Empty Homes Doctor and Angels.
+Leeds Community Homes currently has 3 members of staff. We also have associates working from the office at different times The organisation is overseen by a voluntary Board of Directors. 
 
-Leeds Community Homes is a great place to work.
+LCH’s office is in Cross Green - a 5-10 minute cycle ride from town or 15/20 mins walk from the Minster. There’s free parking. The building is home to LEDA Architects and shared with other organisations including Zero Waste Leeds, the Empty Homes Doctor and Angels.
 
-Our values and ethics are really important to us and its essential that everyone who works here shares those.
-
-LCH prides itself on being a very friendly, open, happy, supportive, informal place to work. But we have a lot of demands on our time and so we have a lot to do and get through. But there’s always a lot of healthy food in the office - be warned!
-
-#### **Where is the job?………**
-
-Based in LCH’s office in Cross Green - a 5-10 minute cycle ride from town or 15/20 mins walk from the Minster. There’s parking outside the building. The job will mainly be office based but can at times be worked remotely by agreement.
+Leeds Community Homes is a great place to work. Our values and ethics are really important to us and its essential that everyone who works here shares those. We pride ourselves on being a very friendly, open, happy, supportive, informal place to work. But we have a lot of demands on our time and so we have a lot to do and get through. There’s always a lot of healthy food in the office - be warned!
