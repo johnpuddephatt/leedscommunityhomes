@@ -16,7 +16,9 @@ By helping groups to move towards their ambitions to create the homes that their
 
 There's loads more information about [community led housing]() here.
 
-Download the full [Job Descriptio]()n here. 
+Download the full [Job Description ](https://drive.google.com/file/d/1YexPxCco9lcswQxgCjupVnjvcW-8L_fr/view?usp=sharing)here. 
+
+About you .....
 
 **What’s it like working at Leeds Community Homes…….?**
 
