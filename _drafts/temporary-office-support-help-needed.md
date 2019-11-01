@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vacency - Temporary Office Support help needed ......
+title: Vacancy - Temporary Office Support help needed ......
 date: 2019-11-01 00:00:00 +0000
 image: "/uploads/2018/06/18/Blog Hub.png"
 tags: []
@@ -18,17 +18,9 @@ Leeds Community Homes needs some additional help and support in the office from 
 
 The actual tasks will be worked out on an ongoing basis based on the number of days you work but will/may include:
 
-* **Administration:**
-
-Including general office support; dealing with enquiries; maintaining database of contacts; maintaining subscriptions; overseeing google drive; Board support
-
-* **Financial administration:**
-
-Liaising with accountants re. LCH and project related finance records on Xero and Receipt Bank – paying invoices, salaries on HMRC RTI system and bank and set up payment of NI and taxes; prepare financial reports for colleagues, board, funders; other financial admin; diarise funding and finance deadlines and ensure these are met eg annual returns, insurance renewals, subscriptions etc; Any other financial administration tasks as required
-
-* **Communication / marketing / events:**
-
-Event management and organisation; coordinating meetings with external stakeholders; arranging and supporting Board meetings; produce monthly members’ e-newsletter; manage our social media; other marketing and communications tasks as required
+* **Administration:** Including general office support; dealing with enquiries; maintaining database of contacts; maintaining subscriptions; overseeing google drive; Board support
+* **Financial administration:** Liaising with accountants re. LCH and project related finance records on Xero and Receipt Bank – paying invoices, salaries on HMRC RTI system and bank and set up payment of NI and taxes; prepare financial reports for colleagues, board, funders; other financial admin; diarise funding and finance deadlines and ensure these are met eg annual returns, insurance renewals, subscriptions etc; Any other financial administration tasks as required
+* **Communication / marketing / events:** Event management and organisation; coordinating meetings with external stakeholders; arranging and supporting Board meetings; produce monthly members’ e-newsletter; manage our social media; other marketing and communications tasks as required
 
 #### **Where is the job?.........**
 
