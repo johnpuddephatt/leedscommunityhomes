@@ -8,8 +8,6 @@ tags: []
 ---
 **Leeds Community Homes is growing - and we want to recruit a new Community Led Housing Advisor to join our team.**
 
-###### 
-
 #### About the job .......
 
 This post will be a really key member of our team. Our Community Led Housing Advisor will work with budding and more established groups, CLTs, housing providers and partners to help them to develop new community led housing solutions, such as CLTs, co-housing, cooperatives and self build schemes.
@@ -42,20 +40,22 @@ You'll also need to have the skills listed in the [Job Description](https://driv
 
 **Holiday**: 25 days per annum plus bank holidays _pro rata_, increasing by a day a year to a maximum of 30 days
 
-**Responsible to:** CLT Director
+**Location**: Predominantly the LCH office with flexibility to work from home/remotely occasionally. Some travel around the region and nationally.
 
-**Responsible for:** no direct reports
+###### 
 
-**Location**: Predominantly the LCH office in Cross Green, Leeds, with flexibility to work from home/remotely occasionally if agreed by line manager. Some travel around the region and nationally.
-
-**Probationary period:** 3 months
-
-**Pension and other conditions/benefits:** statutory levels, e.g. no pension contributions from LCH until 6 months employment
-
-**What’s it like working at Leeds Community Homes…….?**
+#### **What’s it like working at Leeds Community Homes…….?**
 
 Leeds Community Homes currently has 3 members of staff. We also have associates working from the office at different times The organisation is overseen by a voluntary Board of Directors. 
 
 LCH’s office is in Cross Green - a 5-10 minute cycle ride from town or 15/20 mins walk from the Minster. There’s free parking. The building is home to LEDA Architects and shared with other organisations including Zero Waste Leeds, the Empty Homes Doctor and Angels.
 
-Leeds Community Homes is a great place to work. Our values and ethics are really important to us and its essential that everyone who works here shares those. We pride ourselves on being a very friendly, open, happy, supportive, informal place to work. But we have a lot of demands on our time and so we have a lot to do and get through. There’s always a lot of healthy food in the office - be warned!
+Leeds Community Homes is a great place to work. Our values and ethics are really important to us and its essential that everyone who works here shares those. We pride ourselves on being a very friendly, open, happy, supportive, informal place to work. But we have a lot of demands on our time and so we have a lot to do and get through. There’s always a lot of healthy food in the office - be warned! 
+
+###### 
+
+#### HOW TO APPLY  .......
+
+To apply please send your CV and a covering letter of no more than 2 sides of A4 explaning why you are the right person for this job. Please email your letter and CV to steve@leedscommunityhomes.org.uk by **INSERT DEADLINE.** 
+
+Interviews are likely to be held **INSERT DETAILS.** 
