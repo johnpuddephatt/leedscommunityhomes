@@ -10,11 +10,11 @@ tags: []
 
 Leeds Community Homes needs some additional help and support in the office from November to January 2020. The jobs and tasks will be varied, though mainly admin. We need someone who can pick up a variety of jobs and tasks and get going quickly. You don’t need to know about community led housing but it would help. Mainly, you need to be flexible, good at admin, happy to pick up jobs that need doing, able to work on your own and just get on with things. And share our commitment to a more community led and cooperative world.
 
-#### **To apply:**
+#### **To apply........**
 
-##### If you’re interested please email Steve Hoey steve@leedscommunityhomes.org.uk asap and **by lunchtime on 8th November** with your CV, your availability.
+###### If you’re interested please email Steve Hoey steve@leedscommunityhomes.org.uk asap and **by lunchtime on 8th November** with your CV, your availability.
 
-#### **The tasks we need to be covered……..**
+#### **The tasks we need covered……..**
 
 The actual tasks will be worked out on an ongoing basis based on the number of days you work but will/may include:
 
@@ -57,10 +57,10 @@ Firstly we need you to be happy to be doing mainly admin work, picking up all so
 * Policy: abiding by existing LCH policies, the law, sector good practice. Develop and review policies as required.
 * Ethics: an understanding of and harmony with the values of the organisation. Integrity and trustworthiness.
 
-#### **What’s it like working  at Leeds Community Homes…….**
+#### **What’s it like working at Leeds Community Homes…….?**
 
 Leeds Community Homes currently has 3 members of staff - who are often out and about. We also have some associates working from the office at different times. When all 3 are in its busy, but at other times it can be quiet. The office is nice and warm, the building shared with other organisations including Zero Waste Leeds and the Empty Homes Doctor.
 
 Our values and ethics are really important to us and its essential that everyone who works here shares those.
 
-LCH prides itself on being a very friendly, open, happy, supportive, informal place to work. But we have a lot of demands on our time and so we have a lot to do and get through. But there’s always a lot of healthy food in the office Be warned!
+LCH prides itself on being a very friendly, open, happy, supportive, informal place to work. But we have a lot of demands on our time and so we have a lot to do and get through. But there’s always a lot of healthy food in the office - be warned!
