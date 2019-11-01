@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Staff Vacancy - Community Led Housing (CLH) Advisor
+title: We're hiring!!! Community Led Housing Advisor
 date: 2019-11-03 00:00:00 +0000
 image: "/uploads/2019/11/01/IMG_3423.jpg"
 tags: []
 
 ---
-**Leeds Community Homes is growing - and we want to recruit a new Community Led Housing (CLH) Advisor to join out team.**
+**Leeds Community Homes is growing - and we want to recruit a new Community Led Housing Advisor to join out team.**
 
 #### About the job .......
 
@@ -16,13 +16,7 @@ By helping groups to move towards their ambitions to create the homes that their
 
 There's loads more information about [community led housing]() here.
 
-You can download a full [job description]() here. 
-
-About you ......
-
-We are looking for someone who has the skills outlined in the job description. 
-
-If you are an accredited Community Led Housing Advisor 
+Download the full [Job Descriptio]()n here. 
 
 **What’s it like working at Leeds Community Homes…….?**
 
