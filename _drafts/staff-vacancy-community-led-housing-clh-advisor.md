@@ -52,6 +52,6 @@ There’s always a lot of healthy food in the office - be warned!
 
 #### HOW TO APPLY  .......
 
-To apply please send your CV and a covering letter of no more than 2 sides of A4 explaining why you are the right person for this job. Please email your letter and CV to steve@leedscommunityhomes.org.uk by **INSERT DEADLINE.**
+To apply please send your CV and a covering letter of no more than 2 sides of A4 explaining why you are the right person for this job. Please email your letter and CV to steve@leedscommunityhomes.org.uk **by Noon Friday 22nd November 2019.** 
 
-Interviews are likely to be held **INSERT DETAILS.**
+Interviews are likely to be held the week of 
