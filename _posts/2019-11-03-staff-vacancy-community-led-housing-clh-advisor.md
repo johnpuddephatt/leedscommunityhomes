@@ -56,4 +56,6 @@ To apply please send your CV and a covering letter of no more than 2 sides of A4
 
 Interviews are likely to be held on Tuesday 3rd December 2019. 
 
+For an informal chat about the post please email Steve to arrange a time.
+
 _This post is funded by the Ministry of Housing, Communities and Local Government through the national Community Led Homes Partnership_
