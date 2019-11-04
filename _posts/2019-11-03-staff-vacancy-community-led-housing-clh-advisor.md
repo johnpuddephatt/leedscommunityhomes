@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're hiring!!! Community Led Housing Advisor
+title: We're hiring!!! Community Led Housing Adviser
 date: 2019-11-03 00:00:00 +0000
 image: "/uploads/2019/11/01/IMG_3423.jpg"
 tags: []
