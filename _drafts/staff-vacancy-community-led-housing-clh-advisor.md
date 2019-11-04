@@ -14,7 +14,7 @@ This post will be a really key member of our team. Our Community Led Housing Adv
 
 By helping groups to move towards their ambitions to create the homes that their communities need you'll be making a difference to communities and individuals throughout the Leeds City Region and beyond.
 
-There's loads more information about [community led housing]() here.
+There's loads more information about [community led housing ](https://www.communityledhomes.org.uk/)here.
 
 Download the full [Job Description and Person Spec ](https://drive.google.com/file/d/1OlliBKbqsS7tuLpPRMUkwJ1EXCIu89bF/view?usp=sharing "Adviser JD&PS")here.
 
