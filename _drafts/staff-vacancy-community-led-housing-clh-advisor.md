@@ -34,7 +34,7 @@ You'll also need to have the skills listed in the [Job Description and Person Sp
 
 **Salary**: £28,000 for 28 hours (£35,000 p/a full time equivalent)
 
-**Holiday**: 25 days per annum plus bank holidays _pro rata_, increasing by a day a year to a maximum of 30 days
+**Holiday**: 25 days per annum plus bank holidays pro-rata increasing by a day a year to a maximum of 30 days
 
 **Location**: Based at the LCH office with flexibility to work from home/remotely occasionally. Regular travel around the region and sometimes nationally.
 
