@@ -24,7 +24,7 @@ You will share our values and commitment to a more community led and cooperative
 
 You will need to have a good understanding of community led housing, ideally having previously worked within or alongside a community led housing scheme or schemes. You will need to be aware of the different types of community led housing and the five different stages and the needs of groups and schemes at each stage. It will be an advantage to be an accredited Community Led Housing Adviser or have undertaken the national course. Also, previous experience of working in the construction industry or social housing sector will be an advantage.
 
-You'll also need to have the skills listed in the [Job Description and Person Spec.](https://drive.google.com/file/d/1OlliBKbqsS7tuLpPRMUkwJ1EXCIu89bF/view?usp=sharing "Adviser JD&PS")
+You'll also need to have the skills listed in the Job Description and Person Spec below. 
 
 #### Terms and conditions .......
 
