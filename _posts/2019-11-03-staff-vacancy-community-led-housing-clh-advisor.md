@@ -16,7 +16,7 @@ By helping groups to move towards their ambitions to create the homes that their
 
 There's loads more information about [community led housing ](https://www.communityledhomes.org.uk/)here.
 
-Download the full [Job Description and Person Spec ](https://drive.google.com/file/d/1OlliBKbqsS7tuLpPRMUkwJ1EXCIu89bF/view?usp=sharing "Adviser JD&PS")here.
+See the full job description below. 
 
 #### About you .......
 
@@ -40,7 +40,7 @@ You'll also need to have the skills listed in the [Job Description and Person Sp
 
 #### **Working at Leeds Community Homes** .......
 
-Leeds Community Homes currently has 3 members of staff: Steve Hoey, CLT Director; Jimm Reed, Development Director; and James Newton, Admin Manager / Enabler. 
+Leeds Community Homes currently has 3 members of staff: Steve Hoey, CLT Director; Jimm Reed, Development Director; and James Newton, Admin Manager / Enabler.
 
 In early 2020 our staff team will grow to 6 staff members. We also have associates working from the office at different times The organisation is overseen by a voluntary Board of Directors.
 
@@ -52,10 +52,14 @@ There’s always a lot of healthy food in the office - be warned!
 
 #### HOW TO APPLY  .......
 
-To apply please send your CV and a covering letter of no more than 2 sides of A4 explaining why you are the right person for this job. Please email your letter and CV to steve@leedscommunityhomes.org.uk **by Noon Friday 22nd November 2019.** 
+To apply please send your CV and a covering letter of no more than 2 sides of A4 explaining why you are the right person for this job. Please email your letter and CV to steve@leedscommunityhomes.org.uk **by Noon Friday 22nd November 2019.**
 
-Interviews are likely to be held on Tuesday 3rd December 2019. 
+Interviews are likely to be held on Tuesday 3rd December 2019.
 
 For an informal chat about the post please email Steve to arrange a time.
 
 _This post is funded by the Ministry of Housing, Communities and Local Government through the national Community Led Homes Partnership_
+
+***
+
+***
