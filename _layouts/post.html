@@ -35,7 +35,7 @@ layout: default
       {% if (post.path != page.path and count < 3 )%}
       {% assign count = count | plus: 1%}
       <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item">
-        <img src="{{ site.baseurl }}{{ post.image }}" class="blog--item--icon" />
+        {% include cloudinary.html img=post.image modes="f_auto,c_fill" class="blog--item--icon" alt="" width="240" height="160" sizes="(min-width: 1100px) 250px, (min-width: 600px) 30vw, 90vw" quality="85" %}
         <h3 class="blog--item--title">{{ post.title }}</h3>
         <p class="blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 70 }} </p>
         <div class="blog--item--date">{{ post.date | date: "%d.%m.%y " }}</div>
