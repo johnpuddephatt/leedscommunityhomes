@@ -25,6 +25,17 @@ header_pages:
 markdown: kramdown
 google_analytics: UA-75597556-1
 
+cloudinary: letsdance
+
+breakpoints:
+  - 320
+  - 480
+  - 640
+  - 960
+  - 1280
+  - 1600
+  - 2000
+  
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
