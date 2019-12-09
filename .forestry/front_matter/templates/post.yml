@@ -26,6 +26,7 @@ fields:
   label: Tags
   description: Enter each tag then press enter
 pages:
+- _posts/good-places-leeds-housing-conference-2020.md
 - _posts/2019-10-13-cohesive-communities-funding.md
 - _posts/2019-11-01-temporary-office-support-help-needed.md
 - _posts/2019-11-03-staff-vacancy-community-led-housing-clh-advisor.md
