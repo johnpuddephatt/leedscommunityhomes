@@ -2,7 +2,7 @@
 layout: post
 title: Good Places Leeds Housing Conference 2020
 date: 2019-12-09 00:00:00 +0000
-image: "/uploads/2019/12/09/The line up... (2)-1.png"
+image: "/uploads/2019/12/11/The line up... (2).jpg"
 tags:
 - peoplepowered
 - communityledhousing
