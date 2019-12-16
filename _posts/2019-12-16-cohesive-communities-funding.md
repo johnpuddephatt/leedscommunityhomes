@@ -2,7 +2,7 @@
 layout: post
 title: Cohesive Communities Funding!!
 date: 2019-12-16 00:00:00 +0000
-image: ''
+image: "/uploads/2019/10/14/D3O9_RBW4AIZmqA.jpg"
 tags:
 - Funding
 - " Cohesive communities "
