@@ -28,6 +28,7 @@ updates:
   title: Talking to the community
   description: Leeds Community Homes begins conversations with local people and organisations
     in Armley, to explain plans and encourage people to get involved.
+published: false
 
 ---
 **Leeds Community Homes are planning to build 47 new homes along Mistress Lane in Armley, and while we do it we’d like to develop the greenspace around the site to benefit all the neighbours too.**
