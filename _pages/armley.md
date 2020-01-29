@@ -30,13 +30,13 @@ updates:
     in Armley, to explain plans and encourage people to get involved.
 
 ---
-**Leeds Community Homes are planning to build 32 new homes along Mistress Lane in Armley, and while we do it we’d like to develop the greenspace around the site to benefit all the neighbours too.**
+**Leeds Community Homes are planning to build 34 new homes along Mistress Lane in Armley, and while we do it we’d like to develop the greenspace around the site to benefit all the neighbours too.**
 
 **We’d like to hear from people living locally, people who travel through the site and overlook it particularly so you can have a space that you love.**
 
 **A bit about the homes:**
 
-**These homes will be super insulated to reduce fuel bills and help with the climate emergency. We’re using an innovative building technique which means the community can help to build them!**
+**These homes will be super insulated to reduce fuel bills and help with the climate emergency. We’re using an innovative building technique and are hoping the community can be involved!**
 
 **Some of the homes will be available to people on the council housing list, some could be rented directly through LCH and some could be bought through a part ownership scheme. Priority will be for people already living in Armley.**
 
