@@ -30,7 +30,7 @@ updates:
     in Armley, to explain plans and encourage people to get involved.
 
 ---
-**Leeds Community Homes are planning to build 34 new homes along Mistress Lane in Armley, and while we do it we’d like to develop the greenspace around the site to benefit all the neighbours too.**
+**Leeds Community Homes are planning to build 34 new homes along Mistress Lane in Armley, we would also like to develop the greenspace around the site to benefit all the neighbours too.**
 
 **We’d like to hear from people living locally, people who travel through the site and overlook it particularly so you can have a space that you love.**
 
