@@ -36,7 +36,7 @@ updates:
 
 **A bit about the homes:**
 
-**These homes will be super insulated to reduce fuel bills and help with the climate emergency. We’re using an innovative building technique and are hoping the community can be involved!**
+**These homes will be super insulated to reduce fuel bills and help with the climate emergency. We’re using an innovative building technique and are hoping the community can be involved in the consultation process!**
 
 **Some of the homes will be available to people on the council housing list, some could be rented directly through LCH and some could be bought through a part ownership scheme. Priority will be for people already living in Armley.**
 
