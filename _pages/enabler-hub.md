@@ -27,7 +27,7 @@ Your answers identify the areas you’ll need to work on and will help us see wh
 
 The next stage will be for your group to get really clear and ready about what you want to achieve and what you want to do. This will involve having a clear vision for your scheme, knowing what governance arrangements, legal and ownership structure you want, and good group development.
 
-Our <a target="_blank" href="/uploads/Get clear and ready Checklist.pdf">Get clear and ready Checklist</a> goes through all the things you need to cover at this stage. We may be able to help. To start there's a foundation workshop. We can also link you to or directly help you with other specific topic workshops and access to loads of resources. We will identify and help groups we are working with apply for possible sources of funding.
+Our <a target="_blank" href="/uploads/Get clear and ready Checklist.pdf">Get clear and ready Checklist</a> [Support Journey Handout.pdf](/uploads/Support Journey Handout.pdf "Support Journey Handout.pdf") through all the things you need to cover at this stage. We may be able to help. To start there's a foundation workshop. We can also link you to or directly help you with other specific topic workshops and access to loads of resources. We will identify and help groups we are working with apply for possible sources of funding.
 
 <a target="_blank" href="/uploads/Get clear and ready Checklist.pdf" class="button">Get Clear and Ready Checklist</a>
 
