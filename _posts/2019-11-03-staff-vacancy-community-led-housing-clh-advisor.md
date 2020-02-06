@@ -16,8 +16,6 @@ By helping groups to move towards their ambitions to create the homes that their
 
 There's loads more information about [community led housing ](https://www.communityledhomes.org.uk/)here.
 
-[Community Led Housing Adviser Job description Nov 2019.pdf](/uploads/2019/11/01/Community Led Housing Adviser Job description Nov 2019.pdf "Community Led Housing Adviser Job description Nov 2019.pdf")
-
 #### About you .......
 
 You will share our values and commitment to a more community led and cooperative world. You'll have a good understanding of the needs of groups and voluntary activity and previous experience of working with voluntary groups.
