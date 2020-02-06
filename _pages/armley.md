@@ -12,6 +12,9 @@ footer: |
 
   We set up in 2016 – and last year we raised over £360,000 towards our first sixteen homes.  We’ve got big ambitions to build many more.
 updates:
+- date: 2020-02-06 00:00:00 +0000
+  title: Community Consultation Event
+  description: Event on site in Armley to talk to get local input from the residents.
 - date: Jan 2018
   title: Initial interest
   description: Leeds City Council approach Leeds Community Homes to begin conversations
