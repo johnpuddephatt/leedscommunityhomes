@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We're hiring!!! Community Led Housing Adviser
-date: 2019-11-03 00:00:00 +0000
+date: 2019-11-03T00:00:00.000+00:00
 image: "/uploads/2019/11/01/IMG_3423.jpg"
 tags: []
 
@@ -16,7 +16,7 @@ By helping groups to move towards their ambitions to create the homes that their
 
 There's loads more information about [community led housing ](https://www.communityledhomes.org.uk/)here.
 
-See the full job description below.
+[Community Led Housing Adviser Job description Nov 2019.pdf](/uploads/2019/11/01/Community Led Housing Adviser Job description Nov 2019.pdf "Community Led Housing Adviser Job description Nov 2019.pdf")
 
 #### About you .......
 
@@ -24,7 +24,7 @@ You will share our values and commitment to a more community led and cooperative
 
 You will need to have a good understanding of community led housing, ideally having previously worked within or alongside a community led housing scheme or schemes. You will need to be aware of the different types of community led housing and the five different stages and the needs of groups and schemes at each stage. It will be an advantage to be an accredited Community Led Housing Adviser or have undertaken the national course. Also, previous experience of working in the construction industry or social housing sector will be an advantage.
 
-You'll also need to have the skills listed in the Job Description and Person Spec below. 
+You'll also need to have the skills listed in the Job Description and Person Spec below.
 
 #### Terms and conditions .......
 
