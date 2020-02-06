@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Armley community consultation event!
-date: 2020-01-22 00:00:00 +0000
+date: 2020-01-22T00:00:00.000+00:00
 image: "/uploads/2020/01/22/Armley Square Community Housing.png"
 tags:
 - Armley
 - " People powered homes"
 - " Community-led housing"
+- projects
+- news
 
 ---
 **People Powered Homes are coming to Armley!**
