@@ -2,7 +2,7 @@
 layout: post
 title: Community event in Armley
 date: 2020-02-18 00:00:00 +0000
-image: "/uploads/2020/01/22/Armley Square Community Housing.png"
+image: "/uploads/2020/02/19/Armley blog 1.png"
 tags:
 - people powered homes
 - " armley"
