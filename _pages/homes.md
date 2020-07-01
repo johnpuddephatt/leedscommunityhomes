@@ -1,6 +1,6 @@
 ---
 layout: section
-date: 2016-03-23 10:20:00 +0000
+date: 2016-03-23T10:20:00.000+00:00
 title: Our homes
 image: "/uploads/section-houses.svg"
 menu: header
@@ -16,7 +16,7 @@ Our homes are being built Citu, the local developer behind the Climate Innovatio
 
 We’ll rent out nine of our first sixteen homes, and sell seven. All the homes will be permanently affordable – with the rental homes being rented at a “social rent”, whilst the homes we sell will be available at around 2/3 of full market value.  As a [Community Land Trust](http://www.communitylandtrusts.org.uk/what-is-a-clt) we will ensure that all the homes will be permanently affordable.
 
-We expect our first homes to be available during 2019.  For more information, see our [Share Offer Prospectus](/uploads/2019/02/01/LCH Share Offer Final.pdf "LCH Share Offer Final.pdf").
+We expect our first homes to be available during 2021.  For more information, see our [Share Offer Prospectus](/uploads/2019/02/01/LCH Share Offer Final.pdf "LCH Share Offer Final.pdf").
 
 ## Future projects
 
