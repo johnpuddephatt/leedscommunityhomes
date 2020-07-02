@@ -2,7 +2,7 @@
 layout: post
 title: How to contact us during COVID19
 date: 2020-07-01 23:00:00 +0000
-image: ''
+image: "/uploads/hub-announcement.svg"
 tags:
 - contact
 - " phone"
