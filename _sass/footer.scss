@@ -26,6 +26,10 @@
 
 .footer-call {
   font-size: modular-scale(2);
+  a {
+    color: $base-font-color;
+    text-decoration: underline;
+  }
 }
 
 .footer-navigation {
