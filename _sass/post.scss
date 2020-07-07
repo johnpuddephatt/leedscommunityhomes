@@ -26,10 +26,13 @@
 .post-content {
   padding-top: $base-spacing;
   padding-bottom: 2 * $base-spacing;
-  font-size: modular-scale(1);
   > *:first-child {
     font-size: modular-scale(1);
+    font-weight: 700;
     margin-bottom: 1.5 * $base-spacing;
+    strong {
+      font-weight: 900;
+    }
   }
   h2,h3,h4,h5,h6 {
     margin-top: $base-spacing;
@@ -109,6 +112,7 @@
 
 .post-tags {
   display: flex;
+  flex-wrap: wrap;
   margin-top: $small-spacing;
   list-style-type: none;
   .tag {
@@ -116,6 +120,7 @@
     padding: $small-spacing/2 $base-spacing;
     box-shadow: 0 0.25rem 1.25rem -.25rem rgba(100, 100, 100, 0.5);
     margin-right: $small-spacing;
+    margin-top: $base-spacing;
     font-size: modular-scale(-1);
   }
 }

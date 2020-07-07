@@ -251,6 +251,7 @@ $cloudscale: 1.75vw;
   .newsletter-text {
     margin-bottom: 0;
     font-weight: 600;
+    font-size: modular-scale(1);
     margin-right: $base-spacing;
     br {
       display: none;
@@ -648,7 +649,6 @@ $cloudscale: 1.75vw;
   flex-direction: column;
   padding: $base-spacing;
   @media screen and (min-width: $medium-screen) {
-    margin-bottom: 0;
     margin-left: $base-spacing;
   }
   @media screen and (min-width: $large-screen) {
@@ -762,6 +762,7 @@ $cloudscale: 1.75vw;
   .latest-project--description {
     font-weight: 700;
     font-size: modular-scale(1);
+    line-height: $heading-line-height;
     margin-bottom: $base-spacing;
   }
   &::after {
